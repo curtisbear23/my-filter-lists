@@ -3,7 +3,7 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Thu, 13 Jan 2022 18:49 UTC+08:00
+# Updated: Thu, 13 Jan 2022 19:43 UTC+08:00
 # Version: 1.8
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -211,7 +211,6 @@
 0.0.0.0 whatsapgrub89.se.ke
 0.0.0.0 scotsecryvery.com
 0.0.0.0 caishen4.shop
-0.0.0.0 scotsecryvery.com
 0.0.0.0 ukhalifx.redirectme.net
 0.0.0.0 grup-chat-wa-papricia.duckdns.org
 0.0.0.0 snnbc-carb.shop
@@ -299,7 +298,6 @@
 0.0.0.0 littleitalypizza.com
 0.0.0.0 ncjuniorfootball.org
 0.0.0.0 termination-trust.info
-0.0.0.0 swap-trade.in
 0.0.0.0 cloudshare-account-auth.firebaseapp.com
 0.0.0.0 captiveborders.com
 0.0.0.0 kunden-weiterleitung.website
@@ -317,7 +315,7 @@
 0.0.0.0 icwrhee.cn
 0.0.0.0 aruba-pagamenti-area.com
 0.0.0.0 app-ingdirect.tempurl.host
-0.0.0.0 0.0.0.0 news-orlen.us
+0.0.0.0 news-orlen.us
 0.0.0.0 accesso-web-online.com
 0.0.0.0 vvvvpancakeswap.top
 0.0.0.0 pancake-wap.com
@@ -457,7 +455,6 @@
 0.0.0.0 postoffices-redelivery.com
 0.0.0.0 prmimanegapps.com
 0.0.0.0 mobilelegends-xxw.tk
-0.0.0.0 1868365.com
 0.0.0.0 contactespaceclient02.info
 0.0.0.0 getjavjhadff.com
 0.0.0.0 auth-vk-com.ru
@@ -488,7 +485,6 @@
 0.0.0.0 dwalletconnect.com
 0.0.0.0 gnwgroup.co.za
 0.0.0.0 mminsurance.co.zw
-0.0.0.0 chronopostaws.com
 0.0.0.0 banilsmo.xyz
 0.0.0.0 neflix.me
 0.0.0.0 sinhnhatgarennafreefire.com
@@ -647,7 +643,6 @@
 0.0.0.0 hutoknepper.de
 0.0.0.0 casaselah.org
 0.0.0.0 mhlw.club
-0.0.0.0 dbcard-alert.com
 0.0.0.0 staddycase.ru
 0.0.0.0 dlscord-app.info
 0.0.0.0 dlscord.co.uk
@@ -661,7 +656,6 @@
 0.0.0.0 login-blockachain-33n.azurewebsites.net
 0.0.0.0 amcgardiennage.com
 0.0.0.0 dlsccord-apps.com
-0.0.0.0 8365902.com
 0.0.0.0 02-billing-support.org
 0.0.0.0 zeze731.com
 0.0.0.0 jeifjsjejw.xyz
@@ -774,7 +768,6 @@
 0.0.0.0 youkeying.net
 0.0.0.0 rbltcsjp.tk
 0.0.0.0 amzodnjp.shop
-0.0.0.0 amzodnjp.shop
 0.0.0.0 jp-mercari.monster
 0.0.0.0 xiaoming45.shop
 0.0.0.0 squarespace-account.com
@@ -818,7 +811,7 @@
 0.0.0.0 quinaroja.com
 0.0.0.0 nunaproducciones.com
 0.0.0.0 patagnomia.com
-0.0.0.0 0.0.0.0 ksschool.org.in
+0.0.0.0 ksschool.org.in
 0.0.0.0 ora-n.yolasite.com
 0.0.0.0 a068982.cloudns.ph
 0.0.0.0 rufoxxy.com
@@ -826,7 +819,6 @@
 0.0.0.0 danspaintingco.com
 0.0.0.0 instaram.ru.com
 0.0.0.0 paypayys.com
-0.0.0.0 instaram.ru.com
 0.0.0.0 haosijia168.com
 0.0.0.0 impressionsad.com.np
 0.0.0.0 hedefbet.net
@@ -936,7 +928,6 @@
 0.0.0.0 gitn1ui.xyz
 0.0.0.0 fsdt3yioi.xyz
 0.0.0.0 anernaom.shop
-0.0.0.0 fsdt3yioi.xyz
 0.0.0.0 rlpghic.cn
 0.0.0.0 meistrodarbai.lt
 0.0.0.0 ghemivv.cn
@@ -969,7 +960,6 @@
 0.0.0.0 youtuba.com
 0.0.0.0 polyhymnia-mar.com
 0.0.0.0 trktrk.club
-0.0.0.0 virpropcnow.xyz
 0.0.0.0 betacdn.xyz
 0.0.0.0 avprotectionoverview.com
 0.0.0.0 tkqlhce.com
@@ -993,7 +983,6 @@
 0.0.0.0 masdas0932.co.vu
 0.0.0.0 saftypageupdate.workers.dev
 0.0.0.0 revolution-1000022233349786513212345678912387.gq
-0.0.0.0 4eb8fb47d7.nxcli.net
 0.0.0.0 rosecc.cf
 0.0.0.0 w6634s.webwave.dev
 
@@ -1038,7 +1027,7 @@
 0.0.0.0 detrein.com
 0.0.0.0 po-diversion-fees.com
 0.0.0.0 web-onlineportal.com
-0.0.0.0 0.0.0.0 id-591601.xyz
+0.0.0.0 id-591601.xyz
 0.0.0.0 iw6ugab.cn
 0.0.0.0 mardasdasod.co.vu
 0.0.0.0 validationspege.workers.dev
@@ -1064,7 +1053,6 @@
 0.0.0.0 team-discord.com
 0.0.0.0 mobile-alert.link
 0.0.0.0 fellmanscouriers.co.uk
-0.0.0.0 8276365.com
 0.0.0.0 cateringfoodanddrinksupplies777.business.site
 0.0.0.0 ayguru.com
 0.0.0.0 bombeacreypto.online
@@ -1135,7 +1123,6 @@
 0.0.0.0 account-paypal-modify.com
 0.0.0.0 attclassicmailportal.weebly.com
 0.0.0.0 codashop-freefire-event-gratis.duckdns.org
-0.0.0.0 v3r1f1c4t10n-pr0t3ct10n.000webhostapp.com
 0.0.0.0 portalbono-peru.com
 0.0.0.0 s3rvicios-lbk-pe.site
 0.0.0.0 business-appeal-copyright-1805.web.app
@@ -1153,16 +1140,16 @@
 # Similar to uTorrent
 0.0.0.0 bittorrent.com
 
-! https://blog.malwarebytes.com/detections/pup-optional-opencandy
-||opencandy.com^$document
+# https://blog.malwarebytes.com/detections/pup-optional-opencandy
+0.0.0.0 opencandy.com
 
-||aplusdww.top^$document
-||wellsfargogo.shop^$document
-||nab-access-breach.com^$document
-||mindlogicinfotech.com^$document
-||saisondfg.top^$document
-||zmpcoado.cyou^$document
-||zmpcoade.cyou^$document
-||zmpcoacu.cyou^$document
-||zmpcoack.cyou^$document
-||yqlpeitost.duckdns.org^$document
+0.0.0.0 aplusdww.top
+0.0.0.0 wellsfargogo.shop
+0.0.0.0 nab-access-breach.com
+0.0.0.0 mindlogicinfotech.com
+0.0.0.0 saisondfg.top
+0.0.0.0 zmpcoado.cyou
+0.0.0.0 zmpcoade.cyou
+0.0.0.0 zmpcoacu.cyou
+0.0.0.0 zmpcoack.cyou
+0.0.0.0 yqlpeitost.duckdns.org
