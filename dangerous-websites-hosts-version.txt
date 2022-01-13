@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Thu, 13 Jan 2022 22:23 UTC+08:00
-# Version: 1.8.1
+# Updated: Thu, 13 Jan 2022 22:27 UTC+08:00
+# Version: 1.8.2
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -1153,3 +1153,4 @@
 0.0.0.0 zmpcoacu.cyou
 0.0.0.0 zmpcoack.cyou
 0.0.0.0 yqlpeitost.duckdns.org
+0.0.0.0 zoho-validationserv.web.app
