@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Thu, 13 Jan 2022 11:35 UTC+08:00
-# Version: 1.7
+# Updated: Thu, 13 Jan 2022 18:44 UTC+08:00
+# Version: 1.8
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE

@@ -1,8 +1,8 @@
 ! (uBlock Origin and AdGuard only)
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Thu, 13 Jan 2022 11:35 UTC+08:00
-! Version: 1.72
+! Updated: Thu, 13 Jan 2022 18:44 UTC+08:00
+! Version: 1.73
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -672,6 +672,12 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||134.122.134.64^$document
 ||92.255.85.85^$document
 ||117.213.231.25^$document
+||81.174.255.243^$document
+||107.189.5.125^$document
+||211.104.21.11^$document
+||182.56.221.241^$document
+||115.55.29.24^$document
+||27.43.117.45^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -1781,3 +1787,17 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 
 ! Similar to uTorrent
 ||bittorrent.com^$document
+
+! https://blog.malwarebytes.com/detections/pup-optional-opencandy
+||opencandy.com^$document
+
+||aplusdww.top^$document
+||wellsfargogo.shop^$document
+||nab-access-breach.com^$document
+||mindlogicinfotech.com^$document
+||saisondfg.top^$document
+||zmpcoado.cyou^$document
+||zmpcoade.cyou^$document
+||zmpcoacu.cyou^$document
+||zmpcoack.cyou^$document
+||yqlpeitost.duckdns.org^$document
