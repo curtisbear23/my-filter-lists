@@ -1,7 +1,7 @@
 ! (uBlock Origin and AdGuard only)
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Thu, 13 Jan 2022 18:44 UTC+08:00
+! Updated: Thu, 13 Jan 2022 19:43 UTC+08:00
 ! Version: 1.73
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
@@ -126,13 +126,11 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||221.15.61.63^$document
 ||27.215.86.91^$document
 ||59.99.41.253^$document
-||27.215.86.91^$document
 ||1.116.112.190^$document
 ||175.0.61.9^$document
 ||123.14.196.45^$document
 ||125.106.183.5^$document
 ||101.34.104.168^$document
-||125.106.183.5^$document
 ||113.90.176.92^$document
 ||123.8.9.14^$document
 ||221.232.1.35^$document
@@ -173,7 +171,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||173.82.248.100^$document
 ||117.194.172.242^$document
 ||189.85.33.30^$document
-||117.201.200.123^$document
 ||125.117.158.148^$document
 ||47.96.12.219^$document
 ||125.47.241.3^$document
@@ -195,7 +192,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||117.26.208.51^$document
 ||121.234.185.84^$document
 ||65.108.4.86^$document
-||185.140.53.137^$document
 ||94.103.9.184^$document
 ||27.194.18.142^$document
 ||36.35.161.10^$document
@@ -208,7 +204,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||51.91.142.158^$document
 ||178.79.144.87^$document
 ||103.161.172.108^$document
-||47.96.12.219^$document
 ||51.178.186.134^$document
 ||101.43.0.65^$document
 ||154.86.56.106^$document
@@ -279,7 +274,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||27.184.146.80^$document
 ||59.94.193.62^$document
 ||101.89.203.119^$document
-||150.158.23.116^$document
 ||216.244.84.78^$document
 ||103.56.112.187^$document
 ||155.94.129.137^$document
@@ -304,7 +298,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||92.255.85.131^$document
 ||31.207.89.74^$document
 ||172.104.227.98^$document
-||23.94.36.134^$document
 ||181.215.246.120^$document
 ||101.132.236.2^$document
 ||103.100.209.63^$document
@@ -318,7 +311,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||153.36.13.88^$document
 ||182.124.160.254^$document
 ||115.148.76.220^$document
-||182.124.160.254^$document
 ||117.195.80.34^$document
 ||59.93.23.128^$document
 ||185.204.217.174^$document
@@ -332,7 +324,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||123.56.117.227^$document
 ||103.149.90.189^$document
 ||185.198.58.9^$document
-||199.34.228.54^$document
 ||199.34.228.54^$document
 ||199.34.228.53^$document
 ||103.149.27.116^$document
@@ -359,7 +350,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||116.72.61.43^$document
 ||103.47.60.57^$document
 ||219.156.189.196^$document
-||117.222.173.75^$document
 ||222.137.74.37^$document
 ||59.98.51.216^$document
 ||125.42.28.141^$document
@@ -391,9 +381,7 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||39.66.19.197^$document
 ||221.15.48.92^$document
 ||42.228.239.118^$document
-||221.15.48.92^$document
 ||190.123.45.227^$document
-||199.34.228.53^$document
 ||162.241.149.164^$document
 ||172.67.141.138^$document
 ||18.207.204.184^$document
@@ -427,12 +415,9 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||46.101.223.83^$document
 ||192.144.218.97^$document
 ||92.255.85.44^$document
-||192.144.218.97^$document
 ||139.9.72.112^$document
 ||103.208.86.39^$document
 ||204.44.99.197^$document
-||60.211.16.116^$document
-||39.74.163.49^$document
 ||39.74.163.49^$document
 ||115.96.55.36^$document
 ||96.45.171.61^$document
@@ -485,7 +470,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||178.62.232.173^$document
 ||185.140.53.16^$document
 ||103.158.191.133^$document
-||195.3.146.182^$document
 ||162.14.77.157^$document
 ||45.77.241.86^$document
 ||104.233.163.172^$document
@@ -494,7 +478,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||138.68.229.86^$document
 ||68.183.252.42^$document
 ||128.14.230.205^$document
-||58.248.146.249^$document
 ||59.94.183.180^$document
 ||135.181.211.109^$document
 ||104.208.79.494^$document
@@ -620,9 +603,7 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||20.108.44.45^$document
 ||104.131.1.232^$document
 ||3.128.107.74^$document
-||91.109.178.6^$document
 ||45.77.130.82^$document
-||45.79.193.230^$document
 ||78.47.88.87^$document
 ||104.21.61.162^$document
 ||93.115.24.201^$document
@@ -633,7 +614,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||61.52.208.115^$document
 ||112.248.142.68^$document
 ||141.136.39.64^$document
-||112.248.142.68^$document
 ||185.204.109.248^$document
 ||121.122.71.163^$document
 ||181.214.39.189^$document
@@ -643,7 +623,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||3.141.142.211^$document
 ||3.141.177.1^$document
 ||212.193.30.137^$document
-||181.214.39.189^$document
 ||103.223.122.13^$document
 ||20.106.162.1^$document
 ||182.126.177.215^$document
@@ -658,13 +637,11 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||103.79.76.171^$document
 ||35.241.127.243^$document
 ||101.34.56.173^$document
-||103.223.122.13^$document
 ||115.61.79.172^$document
 ||115.50.17.98^$document
 ||117.194.166.192^$document
 ||117.215.211.51^$document
 ||120.193.91.201^$document
-||112.238.203.32^$document
 ||112.238.203.32^$document
 ||27.215.59.131^$document
 ||59.99.140.74^$document
@@ -830,7 +807,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||whatsapgrub89.se.ke^$document
 ||scotsecryvery.com^$document
 ||caishen4.shop^$document
-||scotsecryvery.com^$document
 ||ukhalifx.redirectme.net^$document
 ||grup-chat-wa-papricia.duckdns.org^$document
 ||snnbc-carb.shop^$document
@@ -920,7 +896,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||littleitalypizza.com^$document
 ||ncjuniorfootball.org^$document
 ||termination-trust.info^$document
-||swap-trade.in^$document
 ||cloudshare-account-auth.firebaseapp.com^$document
 ||captiveborders.com^$document
 ||kunden-weiterleitung.website^$document
@@ -1078,7 +1053,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||postoffices-redelivery.com^$document
 ||prmimanegapps.com^$document
 ||mobilelegends-xxw.tk^$document
-||1868365.com^$document
 ||contactespaceclient02.info^$document
 ||getjavjhadff.com^$document
 ||auth-vk-com.ru^$document
@@ -1110,7 +1084,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||dwalletconnect.com^$document
 ||gnwgroup.co.za^$document
 ||mminsurance.co.zw^$document
-||chronopostaws.com^$document
 ||banilsmo.xyz^$document
 ||neflix.me^$document
 ||sinhnhatgarennafreefire.com^$document
@@ -1280,7 +1253,6 @@ sdi-tool.org##.review_slider
 ||hutoknepper.de^$document
 ||casaselah.org^$document
 ||mhlw.club^$document
-||dbcard-alert.com^$document
 ||staddycase.ru^$document
 ||dlscord-app.info^$document
 ||dlscord.co.uk^$document
@@ -1294,7 +1266,6 @@ sdi-tool.org##.review_slider
 ||login-blockachain-33n.azurewebsites.net^$document
 ||amcgardiennage.com^$document
 ||dlsccord-apps.com^$document
-||8365902.com^$document
 ||02-billing-support.org^$document
 ||zeze731.com^$document
 ||jeifjsjejw.xyz^$document
@@ -1410,7 +1381,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||youkeying.net^$document
 ||rbltcsjp.tk^$document
 ||amzodnjp.shop^$document
-||amzodnjp.shop^$document
 ||jp-mercari.monster^$document
 ||xiaoming45.shop^$document
 ||squarespace-account.com^$document
@@ -1462,7 +1432,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||danspaintingco.com^$document
 ||instaram.ru.com^$document
 ||paypayys.com^$document
-||instaram.ru.com^$document
 ||haosijia168.com^$document
 ||impressionsad.com.np^$document
 ||hedefbet.net^$document
@@ -1572,7 +1541,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||gitn1ui.xyz^$document
 ||fsdt3yioi.xyz^$document
 ||anernaom.shop^$document
-||fsdt3yioi.xyz^$document
 ||rlpghic.cn^$document
 ||meistrodarbai.lt^$document
 ||ghemivv.cn^$document
@@ -1605,7 +1573,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||youtuba.com^$document
 ||polyhymnia-mar.com^$document
 ||trktrk.club^$document
-||virpropcnow.xyz^$document
 ||betacdn.xyz^$document
 ||avprotectionoverview.com^$document
 ||tkqlhce.com^$document
@@ -1629,7 +1596,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||masdas0932.co.vu^$document
 ||saftypageupdate.workers.dev^$document
 ||revolution-1000022233349786513212345678912387.gq^$document
-||4eb8fb47d7.nxcli.net^$document
 ||rosecc.cf^$document
 ||w6634s.webwave.dev^$document
 
@@ -1700,7 +1666,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||team-discord.com^$document
 ||mobile-alert.link^$document
 ||fellmanscouriers.co.uk^$document
-||8276365.com^$document
 ||cateringfoodanddrinksupplies777.business.site^$document
 ||ayguru.com^$document
 ||bombeacreypto.online^$document
@@ -1770,7 +1735,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||account-paypal-modify.com^$document
 ||attclassicmailportal.weebly.com^$document
 ||codashop-freefire-event-gratis.duckdns.org^$document
-||v3r1f1c4t10n-pr0t3ct10n.000webhostapp.com^$document
 ||portalbono-peru.com^$document
 ||s3rvicios-lbk-pe.site^$document
 ||business-appeal-copyright-1805.web.app^$document
