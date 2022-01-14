@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Thu, 13 Jan 2022 22:27 UTC+08:00
-# Version: 1.8.2
+# Updated: Fri, 14 Jan 2022 9:05 UTC+08:00
+# Version: 1.9
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -89,7 +89,6 @@
 0.0.0.0 data-px.services
 0.0.0.0 bnsolicitudenlinea.com
 0.0.0.0 irs-registrar.com
-0.0.0.0 privacytoolzforyou-7000.top
 
 # Bad driver updaters, use Snappy Driver Installer instead (sdi-tool.org)
 0.0.0.0 drivereasy.com
@@ -111,8 +110,6 @@
 0.0.0.0 getmydrivers.com
 
 0.0.0.0 vuisjaolenskdvpeeass.icu
-0.0.0.0 exodus-coupon.com
-0.0.0.0 lfikggqgcb.duckdns.org
 0.0.0.0 intsatnet.com
 0.0.0.0 intsetnet.com
 0.0.0.0 specialx-suit.com
@@ -120,9 +117,7 @@
 0.0.0.0 optus-au.blogspot.com
 0.0.0.0 ofcard8.cn
 0.0.0.0 facebook.fastgodelivery.com
-0.0.0.0 lfbydqyxvh.duckdns.org
 0.0.0.0 tvbatistasiao.cng.br
-0.0.0.0 kyyzbnamzq.duckdns.org
 0.0.0.0 ommbank.com.au
 0.0.0.0 amazon-f.buzz
 
@@ -571,7 +566,6 @@
 0.0.0.0 syntrinsic.com
 0.0.0.0 antifrode-italy.com
 0.0.0.0 passportmedical.com
-0.0.0.0 cara-jp.co
 0.0.0.0 bancowlnterbank.com
 0.0.0.0 nfabqdt.cn
 0.0.0.0 vpass-smsn.com
@@ -1154,3 +1148,11 @@
 0.0.0.0 zmpcoack.cyou
 0.0.0.0 yqlpeitost.duckdns.org
 0.0.0.0 zoho-validationserv.web.app
+0.0.0.0 att456hun69.weebly.com
+0.0.0.0 extracash-facil.digitalweb-online.xyz
+0.0.0.0 bancaenlineal-interbark2.com
+0.0.0.0 onlineatt365.weebly.com
+0.0.0.0 kimaki.001www.com
+0.0.0.0 fsfsfsgggg.000webhostapp.com
+0.0.0.0 kookkuhhuuy.000webhostapp.com
+0.0.0.0 metamask-connect.org

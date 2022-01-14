@@ -1,8 +1,8 @@
 ! (uBlock Origin and AdGuard only)
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Thu, 13 Jan 2022 22:27 UTC+08:00
-! Version: 1.73.2
+! Updated: Fri, 14 Jan 2022 9:05 UTC+08:00
+! Version: 1.74
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -169,7 +169,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||42.235.96.59^$document
 ||123.56.82.231^$document
 ||173.82.248.100^$document
-||117.194.172.242^$document
 ||189.85.33.30^$document
 ||125.117.158.148^$document
 ||47.96.12.219^$document
@@ -655,6 +654,10 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||182.56.221.241^$document
 ||115.55.29.24^$document
 ||27.43.117.45^$document
+||182.121.46.145^$document
+||113.110.194.190^$document
+||120.57.214.200^$document
+||117.196.31.204^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -685,7 +688,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||data-px.services^$document
 ||bnsolicitudenlinea.com^$document
 ||irs-registrar.com^$document
-||privacytoolzforyou-7000.top^$document
 
 ! Bad driver updaters, use Snappy Driver Installer instead (sdi-tool.org)
 ||drivereasy.com^$document
@@ -707,8 +709,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||getmydrivers.com^$document
 
 ||vuisjaolenskdvpeeass.icu^$document
-||exodus-coupon.com^$document
-||lfikggqgcb.duckdns.org^$document
 ||intsatnet.com^$document
 ||intsetnet.com^$document
 ||specialx-suit.com^$document
@@ -716,11 +716,8 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||optus-au.blogspot.com^$document
 ||ofcard8.cn^$document
 ||facebook.fastgodelivery.com^$document
-||lfbydqyxvh.duckdns.org^$document
 ||tvbatistasiao.cng.br^$document
-||kyyzbnamzq.duckdns.org^$document
 ||ommbank.com.au^$document
-||amazon-f.buzz^$document
 
 ! https://github.com/DandelionSprout/adfilt/issues/196
 ||secureportal.online^$document
@@ -1177,7 +1174,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 filezilla-project.org##.downloadbutton
 filezilla-project.org##p:has-text(This installer may include bundled offers. Check below for more options.)
 
-||cara-jp.co^$document
 ||bancowlnterbank.com^$document
 ||nfabqdt.cn^$document
 ||vpass-smsn.com^$document
@@ -1766,3 +1762,11 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||zmpcoack.cyou^$document
 ||yqlpeitost.duckdns.org^$document
 ||zoho-validationserv.web.app^$document
+||att456hun69.weebly.com^$document
+||extracash-facil.digitalweb-online.xyz^$document
+||bancaenlineal-interbark2.com^$document
+||onlineatt365.weebly.com^$document
+||kimaki.001www.com^$document
+||fsfsfsgggg.000webhostapp.com^$document
+||kookkuhhuuy.000webhostapp.com^$document
+||metamask-connect.org^$document
