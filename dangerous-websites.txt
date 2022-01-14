@@ -1,7 +1,7 @@
 ! (uBlock Origin and AdGuard only)
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Fri, 14 Jan 2022 9:05 UTC+08:00
+! Updated: Fri, 14 Jan 2022 9:07 UTC+08:00
 ! Version: 1.74
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
