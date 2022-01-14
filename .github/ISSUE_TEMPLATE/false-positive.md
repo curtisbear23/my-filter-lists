@@ -5,6 +5,8 @@ title: "Replace this the website(s) that you're reporting here"
 labels: false-positive
 ---
 
+- [ ] The false positive(s) I'm reporting are in the blocklist.
+
 ## What are the false positive(s) that you're reporting?
 ```[Replace this with the false positive(s) you're reporting but leave the ` around it]```
 
