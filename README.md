@@ -16,7 +16,7 @@ If you want to report any dangerous website(s) or false positive(s) so that I ca
 
 Having links to web security vendors detecting the domain as unsafe are optional but if you want to add them, here are the web security vendors which I accept:
 
-[Fortinet Web Filter Lookup](https://https://www.fortiguard.com/webfilter)
+[Fortinet Web Filter Lookup](https://www.fortiguard.com/webfilter)
 
 [Mcafee WebAdvisor](https://www.siteadvisor.com/sitereport.html)
 
