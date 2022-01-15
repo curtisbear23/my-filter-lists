@@ -1,8 +1,9 @@
 ! (uBlock Origin and AdGuard only)
+
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Sat, 15 Jan 2022 11:18 UTC+08:00
-! Version: 1.75
+! Updated: Sat, 15 Jan 2022 12:36 UTC+08:00
+! Version: 1.75.1
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -1738,7 +1739,7 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ! If you want a good BitTorrent client, check out qBittorrent (qbittorrent.org) It's free and open source.
 ||utorrent.com^$document
 
-! Similar to uTorrent
+! https://www.virustotal.com/gui/file/0333988d52da8b27e865657ffa2c4cb8e96b43fce7d6d7b72458a0b176713924/detection
 ||bittorrent.com^$document
 
 ! https://blog.malwarebytes.com/detections/pup-optional-opencandy

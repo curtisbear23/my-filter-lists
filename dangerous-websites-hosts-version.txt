@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Sat, 15 Jan 2022 11:18 UTC+08:00
-# Version: 1.10
+# Updated: Sat, 15 Jan 2022 12:36 UTC+08:00
+# Version: 1.10.1
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -1124,7 +1124,7 @@
 # If you want a good BitTorrent client, check out qBittorrent (qbittorrent.org) It's free and open source.
 0.0.0.0 utorrent.com
 
-# Similar to uTorrent
+# https://www.virustotal.com/gui/file/0333988d52da8b27e865657ffa2c4cb8e96b43fce7d6d7b72458a0b176713924/detection
 0.0.0.0 bittorrent.com
 
 # https://blog.malwarebytes.com/detections/pup-optional-opencandy
