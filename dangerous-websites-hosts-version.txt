@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Fri, 14 Jan 2022 9:07 UTC+08:00
-# Version: 1.9
+# Updated: Sat, 15 Jan 2022 11:18 UTC+08:00
+# Version: 1.10
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -199,10 +199,6 @@
 0.0.0.0 fkfkfdjdjdllss.weebly.com
 0.0.0.0 wallet-connects.org
 0.0.0.0 amazonses-block.com
-0.0.0.0 grupo-lobo.com
-0.0.0.0 fake-books.glitch.me
-0.0.0.0 rare-chill-contraption.glitch.me
-0.0.0.0 spiral-hospitable-lens.glitch.me
 0.0.0.0 whatsapgrub89.se.ke
 0.0.0.0 scotsecryvery.com
 0.0.0.0 caishen4.shop
@@ -281,10 +277,7 @@
 0.0.0.0 luiseange87.com
 0.0.0.0 placingapie.ink
 0.0.0.0 vo-4.top
-0.0.0.0 swap-trade.in
 0.0.0.0 paypal-ticketid2367.com
-0.0.0.0 link-grupwa18.duckdns.org
-0.0.0.0 okep-18hot1220.duckdns.org
 0.0.0.0 makbrut.com
 0.0.0.0 ahlibin.com
 0.0.0.0 u2connectnow.com
@@ -1156,3 +1149,12 @@
 0.0.0.0 fsfsfsgggg.000webhostapp.com
 0.0.0.0 kookkuhhuuy.000webhostapp.com
 0.0.0.0 metamask-connect.org
+0.0.0.0 wzsrc.cn
+0.0.0.0 nanofresh.cn
+0.0.0.0 nanopark.cn
+0.0.0.0 nanopark.cn
+0.0.0.0 magyar-posta.ddns.net
+0.0.0.0 pagereportedviolatingactivitycopyright.co.vu
+0.0.0.0 seviser-amazon.sevcery.xyz
+0.0.0.0 polskainformacyjna.pl
+0.0.0.0 kasgizlivadi.com

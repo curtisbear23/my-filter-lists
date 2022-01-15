@@ -1,8 +1,8 @@
 ! (uBlock Origin and AdGuard only)
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Fri, 14 Jan 2022 9:07 UTC+08:00
-! Version: 1.74
+! Updated: Sat, 15 Jan 2022 11:18 UTC+08:00
+! Version: 1.75
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -658,6 +658,8 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||113.110.194.190^$document
 ||120.57.214.200^$document
 ||117.196.31.204^$document
+||123.14.234.156^$document
+||125.47.248.134^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -797,16 +799,10 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||fkfkfdjdjdllss.weebly.com^$document
 ||wallet-connects.org^$document
 ||amazonses-block.com^$document
-||grupo-lobo.com^$document
-||fake-books.glitch.me^$document
-||rare-chill-contraption.glitch.me^$document
-||spiral-hospitable-lens.glitch.me^$document
 ||whatsapgrub89.se.ke^$document
 ||scotsecryvery.com^$document
 ||caishen4.shop^$document
 ||ukhalifx.redirectme.net^$document
-||grup-chat-wa-papricia.duckdns.org^$document
-||snnbc-carb.shop^$document
 ||ft-xreg.site^$document
 ||recaa.seiol-jp.cc^$document
 ||online-web.it^$document
@@ -881,10 +877,7 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||luiseange87.com^$document
 ||placingapie.ink^$document
 ||vo-4.top^$document
-||swap-trade.in^$document
 ||paypal-ticketid2367.com^$document
-||link-grupwa18.duckdns.org^$document
-||okep-18hot1220.duckdns.org^$document
 ||makbrut.com^$document
 ||ahlibin.com^$document
 ||u2connectnow.com^$document
@@ -1770,3 +1763,12 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||fsfsfsgggg.000webhostapp.com^$document
 ||kookkuhhuuy.000webhostapp.com^$document
 ||metamask-connect.org^$document
+||wzsrc.cn^$document
+||nanofresh.cn^$document
+||nanopark.cn^$document
+||nanopark.cn^$document
+||magyar-posta.ddns.net^$document
+||pagereportedviolatingactivitycopyright.co.vu^$document
+||seviser-amazon.sevcery.xyz^$document
+||polskainformacyjna.pl^$document
+||kasgizlivadi.com^$document
