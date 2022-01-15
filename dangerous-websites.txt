@@ -1,5 +1,4 @@
 ! (uBlock Origin and AdGuard only)
-
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
 ! Updated: Sat, 15 Jan 2022 12:39 UTC+08:00
