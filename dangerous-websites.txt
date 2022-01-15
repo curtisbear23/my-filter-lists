@@ -2,7 +2,7 @@
 
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Sat, 15 Jan 2022 12:36 UTC+08:00
+! Updated: Sat, 15 Jan 2022 12:39 UTC+08:00
 ! Version: 1.75.1
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
