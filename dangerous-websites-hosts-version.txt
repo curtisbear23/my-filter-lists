@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Sat, 15 Jan 2022 11:07 UTC+08:00
-# Version: 1.11
+# Updated: Sat, 15 Jan 2022 11:32 UTC+08:00
+# Version: 1.11.1
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -897,7 +897,8 @@
 0.0.0.0 xn--ingenieurbro-kps-szb.de
 0.0.0.0 dappswalletconnector.com
 
-# https://www.reddit.com/r/duckduckgo/comments/rnahxq/found_a_fake_website_pretending_to_have_a
+# New Reddit: https://www.reddit.com/r/duckduckgo/comments/rnahxq/found_a_fake_website_pretending_to_have_a
+# Old Reddit: https://old.reddit.com/r/duckduckgo/comments/rnahxq/found_a_fake_website_pretending_to_have_a
 0.0.0.0 duckduckgo-browser.com
 
 0.0.0.0 discord-load.ru
