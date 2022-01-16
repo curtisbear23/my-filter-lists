@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Sat, 15 Jan 2022 12:39 UTC+08:00
-# Version: 1.10.1
+# Updated: Sat, 15 Jan 2022 11:07 UTC+08:00
+# Version: 1.11
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -373,8 +373,6 @@
 0.0.0.0 vvelb.space
 0.0.0.0 zhrhf9tn.top
 0.0.0.0 tigerkan.org
-0.0.0.0 yoshiimi.org
-0.0.0.0 nfnjo-paym.net
 0.0.0.0 vmmtemm.cn
 0.0.0.0 gdwniyg.cn
 0.0.0.0 walletaidconnects.com
@@ -1158,3 +1156,9 @@
 0.0.0.0 seviser-amazon.sevcery.xyz
 0.0.0.0 polskainformacyjna.pl
 0.0.0.0 kasgizlivadi.com
+0.0.0.0 salsomascard.top
+0.0.0.0 uihaish.xyz
+0.0.0.0 rm82j6-t8.cn0.0.0.0
+0.0.0.0 business-required-helpcenter82.web.app
+0.0.0.0 wasites.000webhostapp.com
+0.0.0.0 atimazo.shop

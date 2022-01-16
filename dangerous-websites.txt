@@ -1,8 +1,8 @@
 ! (uBlock Origin and AdGuard only)
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Sat, 15 Jan 2022 12:39 UTC+08:00
-! Version: 1.75.1
+! Updated: Sun, 16 Jan 2022 11:07 UTC+08:00
+! Version: 1.76
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -558,7 +558,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||52.234.24.23^$document
 ||145.14.145.16^$document
 ||107.6.182.73^$document
-||60.185.50.182^$document
 ||175.23.208.127^$document
 ||42.226.71.98^$document
 ||182.121.176.124^$document
@@ -660,6 +659,9 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||117.196.31.204^$document
 ||123.14.234.156^$document
 ||125.47.248.134^$document
+||77.83.199.189^$document
+||8.214.127.215^$document
+||64.52.169.174^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -973,8 +975,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||vvelb.space^$document
 ||zhrhf9tn.top^$document
 ||tigerkan.org^$document
-||yoshiimi.org^$document
-||nfnjo-paym.net^$document
 ||vmmtemm.cn^$document
 ||gdwniyg.cn^$document
 ||walletaidconnects.com^$document
@@ -1772,3 +1772,9 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||seviser-amazon.sevcery.xyz^$document
 ||polskainformacyjna.pl^$document
 ||kasgizlivadi.com^$document
+||salsomascard.top^$document
+||uihaish.xyz^$document
+||rm82j6-t8.cn^$document
+||business-required-helpcenter82.web.app^$document
+||wasites.000webhostapp.com^$document
+||atimazo.shop^$document
