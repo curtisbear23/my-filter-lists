@@ -1,8 +1,8 @@
 ! (uBlock Origin and AdGuard only)
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Sun, 16 Jan 2022 11:32 UTC+08:00
-! Version: 1.76.1
+! Updated: Mon, 17 Jan 2022 12:0 UTC+08:00
+! Version: 1.77
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -787,7 +787,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||securedataacct.ddns.net^$document
 ||optimalwellengineering.com^$document
 ||securee-login38xd.zzux.com^$document
-||joingrupku-bokepneww.duckdns.org^$document
 ||apeswvap.finance^$document
 ||uyy30q.cn^$document
 ||crocodilepaintbooth.com^$document
@@ -1021,7 +1020,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||ymail-auth.com^$document
 ||ignitionclaim.com^$document
 ||amazonmhem.live^$document
-||grup-bkp-auto-crot.duckdns.org^$document
 ||pure-devotion.org^$document
 ||bxb.gr^$document
 ||gqrnyh.com^$document
@@ -1086,7 +1084,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||lenatarus.com^$document
 ||nfcudeactivate.com^$document
 ||upsistemas.cl^$document
-||gabung-grub-bokep.duckdns.org^$document
 ||tiptotoenails.com^$document
 ||visaprocessingcard-edd.com^$document
 
@@ -1306,7 +1303,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||totalbodydetoxkit.com^$document
 ||boi365loginsecureinfo.com^$document
 ||giftcode-garena.com^$document
-||sundala9.duckdns.org^$document
 ||santander-newpayee-approval.com^$document
 ||faceappvidesas.ubpages.com^$document
 ||zooskrn.weebly.com^$document
@@ -1380,7 +1376,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||ambrosecourt.com^$document
 ||62365o.com^$document
 ||trackinid-uspreshipmnt-gateway.codeanyapp.com^$document
-||grupwhatsapp-hot191.duckdns.org^$document
 ||apvvun.cn^$document
 ||spraymatic.com.ve^$document
 ||moneyval.cf^$document
@@ -1432,7 +1427,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||monksec.tk^$document
 ||violatenotificationsalert.co.vu^$document
 ||attmailingdesk.weebly.com^$document
-||dm-gratis-dari-codashop99.duckdns.org^$document
 ||best-pc-protect.xyz^$document
 ||virpropcnow.xyz^$document
 
@@ -1537,7 +1531,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||bepc0z.cn^$document
 ||yan1fhaz.xyz^$document
 ||fpalpha.myportfolio.com^$document
-||videoviralabs1.duckdns.org^$document
 ||shopjudelle.com^$document
 ||furafideg.com^$document
 ||japanbdc.com^$document
@@ -1695,7 +1688,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||centerdefinition.com^$document
 ||mercadolivre-produtos.com^$document
 ||meterialscinfo21.com^$document
-||joingrupeuni.duckdns.org^$document
 ||secvocauxoboxj.yolasite.com^$document
 ||metasmask-help.com^$document
 ||att-online-verification.weebly.com^$document
@@ -1712,7 +1704,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||creatorsverificationandsafetybusinessaccount.co.vu^$document
 ||semogaadahikmahnya.000webhostapp.com^$document
 ||hujanbadai.000webhostapp.com^$document
-||inpo-grup-bokep.duckdns.org^$document
 ||eehirbw.cn^$document
 ||fuchsia-funny-chauffeur.glitch.me^$document
 ||ecogreenjanitorial.com^$document
@@ -1724,7 +1715,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||hindshoe.com^$document
 ||account-paypal-modify.com^$document
 ||attclassicmailportal.weebly.com^$document
-||codashop-freefire-event-gratis.duckdns.org^$document
 ||portalbono-peru.com^$document
 ||s3rvicios-lbk-pe.site^$document
 ||business-appeal-copyright-1805.web.app^$document
