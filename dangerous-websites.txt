@@ -1,8 +1,8 @@
 ! (uBlock Origin and AdGuard only)
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Tue, 18 Jan 2022 12:41 UTC+08:00
-! Version: 1.78
+! Updated: Tue, 19 Jan 2022 14:25 UTC+08:00
+! Version: 1.78.1
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -1779,3 +1779,7 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||console-chekmailbox32.web.app^$document
 ||postoffice-info-office.com^$document
 ||soumya252000.github.io^$document
+||exam-discord.com^$document
+||bgmi-spins.com^$document
+||helpcenterr-001q.xyz^$document
+||13048.cc^$document

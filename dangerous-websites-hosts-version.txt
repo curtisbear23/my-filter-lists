@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Tue, 18 Jan 2022 12:41 UTC+08:00
-# Version: 1.13
+# Updated: Tue, 18 Jan 2022 14:25 UTC+08:00
+# Version: 1.13.1
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -1157,3 +1157,7 @@
 0.0.0.0 console-chekmailbox32.web.app
 0.0.0.0 postoffice-info-office.com
 0.0.0.0 soumya252000.github.io
+0.0.0.0 exam-discord.com
+0.0.0.0 bgmi-spins.com
+0.0.0.0 helpcenterr-001q.xyz
+0.0.0.0 13048.cc
