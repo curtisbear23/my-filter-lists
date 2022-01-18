@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Mon, 17 Jan 2022 12:04 UTC+08:00
-# Version: 1.12
+# Updated: Tue, 18 Jan 2022 12:41 UTC+08:00
+# Version: 1.13
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -1103,7 +1103,6 @@
 0.0.0.0 business-appeal-copyright-1805.web.app
 0.0.0.0 xkrx0o.cn
 0.0.0.0 ryyswjn.cn
-0.0.0.0 rhasolutions-docs.ga
 0.0.0.0 zenvinyl.com
 0.0.0.0 meraswaasth.com
 
@@ -1152,3 +1151,9 @@
 0.0.0.0 business-required-helpcenter82.web.app
 0.0.0.0 wasites.000webhostapp.com
 0.0.0.0 atimazo.shop
+0.0.0.0 maeosyneod.com
+0.0.0.0 mseosri.com
+0.0.0.0 sioanxh.xyz
+0.0.0.0 console-chekmailbox32.web.app
+0.0.0.0 postoffice-info-office.com
+0.0.0.0 soumya252000.github.io

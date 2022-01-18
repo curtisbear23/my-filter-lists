@@ -1,8 +1,8 @@
 ! (uBlock Origin and AdGuard only)
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Mon, 17 Jan 2022 12:04 UTC+08:00
-! Version: 1.77
+! Updated: Tue, 18 Jan 2022 12:41 UTC+08:00
+! Version: 1.78
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -662,6 +662,11 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||77.83.199.189^$document
 ||8.214.127.215^$document
 ||64.52.169.174^$document
+||42.224.82.88^$document
+||27.5.45.63^$document
+||59.89.213.151^$document
+||117.217.152.113^$document
+||61.52.232.152^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -1720,7 +1725,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||business-appeal-copyright-1805.web.app^$document
 ||xkrx0o.cn^$document
 ||ryyswjn.cn^$document
-||rhasolutions-docs.ga^$document
 ||zenvinyl.com^$document
 ||meraswaasth.com^$document
 
@@ -1769,3 +1773,9 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||business-required-helpcenter82.web.app^$document
 ||wasites.000webhostapp.com^$document
 ||atimazo.shop^$document
+||maeosyneod.com^$document
+||mseosri.com^$document
+||sioanxh.xyz^$document
+||console-chekmailbox32.web.app^$document
+||postoffice-info-office.com^$document
+||soumya252000.github.io^$document
