@@ -6,6 +6,7 @@ labels: false-positive
 ---
 
 - [ ] The false positive(s) I'm reporting are in the blocklist.
+<!--- Replace the space within the brackets with x. -->
 
 ## What are the false positive(s) that you're reporting?
 ```[Replace this with the false positive(s) you're reporting but leave the ` around it]```

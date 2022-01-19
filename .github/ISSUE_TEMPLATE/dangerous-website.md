@@ -6,6 +6,7 @@ labels: dangerous-website
 ---
 
 - [ ] The website(s) I'm reporting are not in the blocklist.
+<!--- Replace the space within the brackets with x. -->
 
 ## What are the website(s) that you're reporting?
 ```[Replace this with the website(s) you're reporting but leave the ` around it]```
