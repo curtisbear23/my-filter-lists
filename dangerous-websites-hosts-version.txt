@@ -1,10 +1,10 @@
 # (Pi-hole, AdAway, Hosts file of your PC, and uBlock Origin only)
-# Note: If you are using uBlock Origin, it's recommended that you use the original list instead.
+# If you are using uBlock Origin, it's recommended that you use the original list instead.
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Tue, 18 Jan 2022 14:25 UTC+08:00
-# Version: 1.13.1
+# Updated: Wed, 19 Jan 2022 11:40 UTC+08:00
+# Version: 1.14
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -675,11 +675,9 @@
 # https://blog.malwarebytes.com/detections/pup-optional-restoro
 0.0.0.0 restoro.com
 
-0.0.0.0 myo2-portal.com
 0.0.0.0 dev-offbtbusinessbtcomms.pantheonsite.io
 0.0.0.0 nhs-register-covid-pass.com
 0.0.0.0 vsscrubs.top
-0.0.0.0 axiugog.cn
 0.0.0.0 otheramazoncardpayment.xyz
 0.0.0.0 servikalodkerrns.io
 0.0.0.0 totalbodydetoxkit.com
@@ -1161,3 +1159,7 @@
 0.0.0.0 bgmi-spins.com
 0.0.0.0 helpcenterr-001q.xyz
 0.0.0.0 13048.cc
+0.0.0.0 macesoi.com
+0.0.0.0 nuveie.cn
+0.0.0.0 webfacebook.duckdns.org
+0.0.0.0 netflixpayementupdate.com

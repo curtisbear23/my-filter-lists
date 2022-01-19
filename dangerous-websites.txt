@@ -1,8 +1,8 @@
 ! (uBlock Origin and AdGuard only)
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Tue, 19 Jan 2022 14:25 UTC+08:00
-! Version: 1.78.1
+! Updated: Wed, 19 Jan 2022 11:40 UTC+08:00
+! Version: 1.79
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -647,7 +647,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||134.122.134.64^$document
 ||92.255.85.85^$document
 ||117.213.231.25^$document
-||81.174.255.243^$document
 ||107.189.5.125^$document
 ||211.104.21.11^$document
 ||182.56.221.241^$document
@@ -667,6 +666,9 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||59.89.213.151^$document
 ||117.217.152.113^$document
 ||61.52.232.152^$document
+||219.157.242.99^$document
+||79.35.223.230^$document
+||42.239.171.146^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -1298,11 +1300,9 @@ sdi-tool.org##.review_slider
 ! This blocks the Restoro ad on TheWindowsClub.
 thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Windows errors automatically)
 
-||myo2-portal.com^$document
 ||dev-offbtbusinessbtcomms.pantheonsite.io^$document
 ||nhs-register-covid-pass.com^$document
 ||vsscrubs.top^$document
-||axiugog.cn^$document
 ||otheramazoncardpayment.xyz^$document
 ||servikalodkerrns.io^$document
 ||totalbodydetoxkit.com^$document
@@ -1783,3 +1783,7 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||bgmi-spins.com^$document
 ||helpcenterr-001q.xyz^$document
 ||13048.cc^$document
+||macesoi.com^$document
+||nuveie.cn^$document
+||webfacebook.duckdns.org^$document
+||netflixpayementupdate.com^$document
