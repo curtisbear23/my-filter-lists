@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Wed, 19 Jan 2022 11:40 UTC+08:00
-# Version: 1.14
+# Updated: Wed, 19 Jan 2022 15:44 UTC+08:00
+# Version: 1.15
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -232,8 +232,6 @@
 0.0.0.0 allegrolokalnie-pl.54352.space
 0.0.0.0 pagedemo.co
 0.0.0.0 paxful-kiosk.com
-0.0.0.0 dgdggdccs.webflow.io
-0.0.0.0 b-t-f84c03.webflow.io
 0.0.0.0 klgwebdesign.com
 0.0.0.0 sms.allegrolokalnie-pl.54352.space
 0.0.0.0 sms.inpost-pl.54352.space
@@ -1121,9 +1119,7 @@
 0.0.0.0 mindlogicinfotech.com
 0.0.0.0 saisondfg.top
 0.0.0.0 zmpcoado.cyou
-0.0.0.0 zmpcoade.cyou
 0.0.0.0 zmpcoacu.cyou
-0.0.0.0 zmpcoack.cyou
 0.0.0.0 yqlpeitost.duckdns.org
 0.0.0.0 zoho-validationserv.web.app
 0.0.0.0 att456hun69.weebly.com
@@ -1136,7 +1132,6 @@
 0.0.0.0 metamask-connect.org
 0.0.0.0 wzsrc.cn
 0.0.0.0 nanofresh.cn
-0.0.0.0 nanopark.cn
 0.0.0.0 nanopark.cn
 0.0.0.0 magyar-posta.ddns.net
 0.0.0.0 pagereportedviolatingactivitycopyright.co.vu

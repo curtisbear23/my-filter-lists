@@ -1,8 +1,8 @@
 ! (uBlock Origin and AdGuard only)
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Wed, 19 Jan 2022 11:40 UTC+08:00
-! Version: 1.79
+! Updated: Thu, 20 Jan 2022 15:44 UTC+08:00
+! Version: 1.80
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -669,6 +669,8 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||219.157.242.99^$document
 ||79.35.223.230^$document
 ||42.239.171.146^$document
+||59.94.131.226^$document
+||42.235.93.221^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -840,8 +842,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||allegrolokalnie-pl.54352.space^$document
 ||pagedemo.co^$document
 ||paxful-kiosk.com^$document
-||dgdggdccs.webflow.io^$document
-||b-t-f84c03.webflow.io^$document
 ||klgwebdesign.com^$document
 ||sms.allegrolokalnie-pl.54352.space^$document
 ||sms.inpost-pl.54352.space^$document
@@ -1745,9 +1745,7 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||mindlogicinfotech.com^$document
 ||saisondfg.top^$document
 ||zmpcoado.cyou^$document
-||zmpcoade.cyou^$document
 ||zmpcoacu.cyou^$document
-||zmpcoack.cyou^$document
 ||yqlpeitost.duckdns.org^$document
 ||zoho-validationserv.web.app^$document
 ||att456hun69.weebly.com^$document
@@ -1760,7 +1758,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||metamask-connect.org^$document
 ||wzsrc.cn^$document
 ||nanofresh.cn^$document
-||nanopark.cn^$document
 ||nanopark.cn^$document
 ||magyar-posta.ddns.net^$document
 ||pagereportedviolatingactivitycopyright.co.vu^$document
@@ -1787,3 +1784,15 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||nuveie.cn^$document
 ||webfacebook.duckdns.org^$document
 ||netflixpayementupdate.com^$document
+||mps2022antifrode.com^$document
+||webdbslistinonline.com^$document
+||mailservervalidationr151.web.app^$document
+||mailservervalidationr152.web.app^$document
+||mailservervalidationr153.web.app^$document
+||mailservervalidationr154.web.app^$document
+||mailservervalidationr155.web.app^$document
+||mailservervalidationr156.web.app^$document
+||mailservervalidationr157.web.app^$document
+||mailservervalidationr158.web.app^$document
+||mailservervalidationr159.web.app^$document
+||mailservervalidationr160.web.app^$document
