@@ -3,7 +3,7 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Wed, 19 Jan 2022 15:44 UTC+08:00
+# Updated: Wed, 20 Jan 2022 15:48 UTC+08:00
 # Version: 1.15
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -1158,3 +1158,15 @@
 0.0.0.0 nuveie.cn
 0.0.0.0 webfacebook.duckdns.org
 0.0.0.0 netflixpayementupdate.com
+0.0.0.0 mps2022antifrode.com
+0.0.0.0 webdbslistinonline.com
+0.0.0.0 mailservervalidationr151.web.app
+0.0.0.0 mailservervalidationr152.web.app
+0.0.0.0 mailservervalidationr153.web.app
+0.0.0.0 mailservervalidationr154.web.app
+0.0.0.0 mailservervalidationr155.web.app
+0.0.0.0 mailservervalidationr156.web.app
+0.0.0.0 mailservervalidationr157.web.app
+0.0.0.0 mailservervalidationr158.web.app
+0.0.0.0 mailservervalidationr159.web.app
+0.0.0.0 mailservervalidationr160.web.app
