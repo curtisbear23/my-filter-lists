@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Wed, 20 Jan 2022 16:28 UTC+08:00
-# Version: 1.15.1
+# Updated: Fri, 21 Jan 2022 21:13 UTC+08:00
+# Version: 1.16
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -63,7 +63,6 @@
 0.0.0.0 camisasel.com
 0.0.0.0 tcp4.me
 0.0.0.0 domynuts.ga
-0.0.0.0 update.msnlivemail.com
 0.0.0.0 telus.azurewebsites.net
 0.0.0.0 keyedge.digital
 0.0.0.0 aichdtv.com
@@ -118,7 +117,6 @@
 0.0.0.0 ofcard8.cn
 0.0.0.0 facebook.fastgodelivery.com
 0.0.0.0 tvbatistasiao.cng.br
-0.0.0.0 ommbank.com.au
 0.0.0.0 amazon-f.buzz
 
 # https://github.com/DandelionSprout/adfilt/issues/196
@@ -164,7 +162,6 @@
 0.0.0.0 pancaakeeswap.financial
 0.0.0.0 pour-vous-identifier306.yolasite.com
 0.0.0.0 jayp.eu
-0.0.0.0 asmznxa.000webhostapp.com
 0.0.0.0 abiispecialistpolyclinic.org
 0.0.0.0 handguneducation.com
 0.0.0.0 mobile-eventmoonton8y.se.ke
@@ -186,7 +183,6 @@
 0.0.0.0 optimalwellengineering.com
 0.0.0.0 securee-login38xd.zzux.com
 0.0.0.0 apeswvap.finance
-0.0.0.0 uyy30q.cn
 0.0.0.0 crocodilepaintbooth.com
 0.0.0.0 fedexcomgm.temp.swtest.ru
 0.0.0.0 sidqsljkde.temp.swtest.ru
@@ -208,12 +204,10 @@
 0.0.0.0 online-web.it
 0.0.0.0 amozon.co.ip.snapshop.com.cn
 0.0.0.0 kayika.square.site
-0.0.0.0 areariservataonline.com
 0.0.0.0 chronopostaws.com
 0.0.0.0 irs.govus-claimtax-relief.com
 0.0.0.0 xn--fcebook-hwa.co
 0.0.0.0 hpnepgnmwrgdrrsdshzrvyirlx.gl44393333333.rj.r.appspot.com
-0.0.0.0 dciscord.com
 0.0.0.0 dicsord-airdrop.com
 0.0.0.0 2021cs.net.ru
 0.0.0.0 rust-llc.com
@@ -241,15 +235,12 @@
 0.0.0.0 walletsupportfix.com
 0.0.0.0 pl-id219249.icu
 0.0.0.0 pl-partner.shop
-0.0.0.0 dpd-pl.996124.space
 0.0.0.0 pl-olx-safe.me
 0.0.0.0 penkeceswap.net
 0.0.0.0 szddb.cn
 0.0.0.0 e-walletconnectpro.com
 0.0.0.0 8037722c-9d8b-43ad-9cca-1bf9921a4e66.id.repl.co
 0.0.0.0 1392ca19.jsduedy-hf.com.cn
-0.0.0.0 pesquisadetalhada.online
-0.0.0.0 helpline-support-team.com
 0.0.0.0 autivesyllenesliopa.com
 0.0.0.0 yfmnyo.xyz
 0.0.0.0 putao27.shop
@@ -288,7 +279,6 @@
 0.0.0.0 verifinfooyouracctamazon.com
 0.0.0.0 electrocoolhvacr.com
 0.0.0.0 searchclearwaterbeachproperties.com
-0.0.0.0 bancoripley-cl.siemprewapa.com
 0.0.0.0 dast-com.preview-domain.com
 0.0.0.0 regal-com.preview-domain.com
 0.0.0.0 drozda-com.preview-domain.com
@@ -298,18 +288,11 @@
 0.0.0.0 setimberonline.com
 0.0.0.0 icwrhee.cn
 0.0.0.0 aruba-pagamenti-area.com
-0.0.0.0 app-ingdirect.tempurl.host
-0.0.0.0 news-orlen.us
-0.0.0.0 accesso-web-online.com
-0.0.0.0 vvvvpancakeswap.top
 0.0.0.0 pancake-wap.com
-0.0.0.0 dkddlur.weebly.com
 0.0.0.0 olx-pol-and.com
-0.0.0.0 gonetoosoon1.weebly.com
 0.0.0.0 valenciaoptometry.com
 0.0.0.0 eluniversallatinworld.com
 0.0.0.0 dhl-tracking-au.blogspot.com
-0.0.0.0 centuryyylink.weebly.com
 0.0.0.0 csassistant06.com
 0.0.0.0 barclayspartnerfinanceeligibility.com
 0.0.0.0 facebook.muhammadak.repl.co
@@ -325,24 +308,20 @@
 0.0.0.0 sendmypyplstoreacademy.store
 0.0.0.0 panqakesvvip-api.com
 0.0.0.0 oppaexpress.com
-0.0.0.0 orgcash.net
 0.0.0.0 member-ff-garena.online
 0.0.0.0 financialknack.com
 0.0.0.0 vlkote.hop.ru
 0.0.0.0 trastme.com
 0.0.0.0 aeonbankk.com
-0.0.0.0 snbc.sebac-jp.cc
 0.0.0.0 spk-kundentransscript.com
 0.0.0.0 spktestreihe.com
 0.0.0.0 spk-chip.com
 0.0.0.0 apptools11.xyz
 0.0.0.0 efaxzwjhzf.edkj.org
 0.0.0.0 tattered-large-minute.glitch.me
-0.0.0.0 allegrolokalnie-pl.id-safety.cfd
 0.0.0.0 argoscard-secureonline-passwordreset.glitch.me
 0.0.0.0 margigitjari9987.co.vu
 0.0.0.0 businnes.info.pagereconfirm.workers.dev
-0.0.0.0 aupay.me
 0.0.0.0 verifylog.xyz
 0.0.0.0 eternal-rules-aktif.my.id
 0.0.0.0 after-hardest-climb.my.id
@@ -354,14 +333,12 @@
 0.0.0.0 benera.xyz
 0.0.0.0 xn--mtamsk-sta4d.cc
 0.0.0.0 sekamehe21.com
-0.0.0.0 stealthmeetinghel.000webhostapp.com
 0.0.0.0 swiatowe-wiadomosci.pl
 0.0.0.0 swiatowewiadomosci.pl
 0.0.0.0 trustvalidations.com
 0.0.0.0 trustwall.xyz
 0.0.0.0 ucfree99.com
 0.0.0.0 up-xs4mat.com
-0.0.0.0 u1324717oa.ha004.t.justns.ru
 0.0.0.0 carpetderatique.com
 0.0.0.0 cvbhgjhgfj.com
 0.0.0.0 ehjrjjqq.com
@@ -372,7 +349,6 @@
 0.0.0.0 vmmtemm.cn
 0.0.0.0 gdwniyg.cn
 0.0.0.0 walletaidconnects.com
-0.0.0.0 myinstagram.ml
 0.0.0.0 billingsmakerspace.com
 0.0.0.0 apple-fan7.com
 0.0.0.0 creacionesfina.com
@@ -392,7 +368,6 @@
 0.0.0.0 instasup.xyz
 0.0.0.0 sparkasse-kundenofferte.com
 0.0.0.0 iwncfywp.gq
-0.0.0.0 vegetable.myvnc.com
 0.0.0.0 kadox.online
 0.0.0.0 info-devise.com
 0.0.0.0 iwncfywp.cf
@@ -401,12 +376,10 @@
 0.0.0.0 coaoreand.com
 0.0.0.0 geepada.com
 0.0.0.0 secure-amazons.com
-0.0.0.0 userinfo-paypal.com
 0.0.0.0 userinfo-paypal.net
 0.0.0.0 bc-accts.com
 0.0.0.0 zgmhx.com
 0.0.0.0 moyanb.com
-0.0.0.0 appsconfirms.ml
 0.0.0.0 suzanloja.xyz
 0.0.0.0 trustkey.co.vu
 0.0.0.0 pk-6.top
@@ -427,7 +400,6 @@
 0.0.0.0 privacysupport.xyz
 0.0.0.0 moucewh.com
 0.0.0.0 omsmexico.com
-0.0.0.0 uioukx.ga
 0.0.0.0 hirsty-allen.107-172-89-165.plesk.page
 0.0.0.0 gifted-jepsen.23-95-9-202.plesk.page
 0.0.0.0 candacy.us
@@ -435,11 +407,8 @@
 0.0.0.0 secure365account-boi.com
 0.0.0.0 postoffices-redelivery.com
 0.0.0.0 prmimanegapps.com
-0.0.0.0 mobilelegends-xxw.tk
 0.0.0.0 contactespaceclient02.info
-0.0.0.0 getjavjhadff.com
 0.0.0.0 auth-vk-com.ru
-0.0.0.0 javjhadff.com
 0.0.0.0 streamcomnunety.com
 0.0.0.0 mtbank001.dd-dns.de
 0.0.0.0 sohbetyade.com
@@ -494,11 +463,9 @@
 0.0.0.0 bancawlnterbank.com
 0.0.0.0 bancaslnterbank-alerta.com
 0.0.0.0 designpositif.com
-0.0.0.0 pancakeswap.llc
 0.0.0.0 seyolu.cn
 0.0.0.0 vpovzh.cn
 0.0.0.0 uidv.cn
-0.0.0.0 mejikuibinui.co.vu
 0.0.0.0 aquitemdiversao.com.br
 0.0.0.0 x4f84i.cn
 0.0.0.0 noithatcombo.com.vn
@@ -511,7 +478,6 @@
 0.0.0.0 wyukvveh.cf
 0.0.0.0 wyukvveh.ga
 0.0.0.0 wyukvveh.gq
-0.0.0.0 paypal-ticketid2946.com
 0.0.0.0 dbst8772.vip
 0.0.0.0 gov-css.net
 0.0.0.0 profile-usatax.online
@@ -519,9 +485,7 @@
 0.0.0.0 oyegoodnews.com
 0.0.0.0 hollywoodbeautyimports.com
 0.0.0.0 roydoncranesupplies.co.ke
-0.0.0.0 attlogininternet.weebly.com
 0.0.0.0 gsx2-system-support.com
-0.0.0.0 bbvabloqueos.com
 0.0.0.0 o2-accounts-bill.com
 0.0.0.0 snrsystem.com
 0.0.0.0 pcggprisonministry.com
@@ -549,7 +513,6 @@
 0.0.0.0 etafoster.com
 0.0.0.0 budgetbuys.co.za
 0.0.0.0 syntrinsic.com
-0.0.0.0 antifrode-italy.com
 0.0.0.0 passportmedical.com
 0.0.0.0 bancowlnterbank.com
 0.0.0.0 nfabqdt.cn
@@ -559,9 +522,7 @@
 0.0.0.0 authenccex.com
 0.0.0.0 cawnibos.com
 0.0.0.0 bestwaypools.in
-0.0.0.0 tyjairunlimitedkc.com
 0.0.0.0 pride-is-not-never-fail.my.id
-0.0.0.0 mttbank033.dd-dns.de
 0.0.0.0 51dlgs.com
 0.0.0.0 allkku.com
 0.0.0.0 ksirg.com
@@ -632,7 +593,6 @@
 0.0.0.0 tlcbcpr.xyz
 0.0.0.0 parkeparquet.com
 0.0.0.0 stonewoodhomesutah.com
-0.0.0.0 login-blockachain-33n.azurewebsites.net
 0.0.0.0 amcgardiennage.com
 0.0.0.0 dlsccord-apps.com
 0.0.0.0 02-billing-support.org
@@ -640,7 +600,6 @@
 0.0.0.0 jeifjsjejw.xyz
 0.0.0.0 smdcshdkjl.top
 0.0.0.0 datos-viabcpprestamo.com
-0.0.0.0 pagehelpssupportidentityasmuchaspossible.co.vu
 0.0.0.0 vvoer.xyz
 0.0.0.0 secured-paypal-verification.lhr.rocks
 0.0.0.0 cashforclosingmyhouse.net
@@ -667,7 +626,6 @@
 0.0.0.0 helpinbox.support
 0.0.0.0 paypayjp.com
 0.0.0.0 belinqed.ge
-0.0.0.0 uaedxbost.ddns.net
 0.0.0.0 neurkofs-com.preview-domain.com
 
 # https://blog.malwarebytes.com/detections/pup-optional-restoro
@@ -676,14 +634,11 @@
 0.0.0.0 dev-offbtbusinessbtcomms.pantheonsite.io
 0.0.0.0 nhs-register-covid-pass.com
 0.0.0.0 vsscrubs.top
-0.0.0.0 otheramazoncardpayment.xyz
-0.0.0.0 servikalodkerrns.io
 0.0.0.0 totalbodydetoxkit.com
 0.0.0.0 boi365loginsecureinfo.com
 0.0.0.0 giftcode-garena.com
 0.0.0.0 santander-newpayee-approval.com
 0.0.0.0 faceappvidesas.ubpages.com
-0.0.0.0 zooskrn.weebly.com
 0.0.0.0 rekleinspectacletrain.design
 0.0.0.0 ifursys.com
 0.0.0.0 atc-saudiarabia.com
@@ -702,14 +657,12 @@
 0.0.0.0 fourplenty.net
 0.0.0.0 oraclemart.com
 0.0.0.0 mercarl-shop.tk
-0.0.0.0 onayekraninizvakifdan.tk
 0.0.0.0 itcentralsupport.net
 0.0.0.0 jp-amazon.cloud
 0.0.0.0 legendsofunicorn.com
 0.0.0.0 tongdaiviettelbienhoa.com
 0.0.0.0 rareelements.io
 0.0.0.0 ganzhouhs.top
-0.0.0.0 praising.servebeer.com
 0.0.0.0 d9yxsarz.cn
 0.0.0.0 advocaciagallo.com.br
 0.0.0.0 68365dd.com
@@ -731,7 +684,6 @@
 0.0.0.0 exondus-lokin.com
 0.0.0.0 bloccospesa.com
 0.0.0.0 kimperrell.org
-0.0.0.0 online-review.mars-cdn.com
 0.0.0.0 foodpandacentralops.com
 0.0.0.0 buyelectronicsnyc.com
 0.0.0.0 tulsabailbondfinancing.com
@@ -742,7 +694,6 @@
 0.0.0.0 exoduswalle-t.com
 0.0.0.0 accotmyamzom.shop
 0.0.0.0 youkeying.net
-0.0.0.0 rbltcsjp.tk
 0.0.0.0 amzodnjp.shop
 0.0.0.0 jp-mercari.monster
 0.0.0.0 xiaoming45.shop
@@ -756,7 +707,6 @@
 0.0.0.0 trackinid-uspreshipmnt-gateway.codeanyapp.com
 0.0.0.0 apvvun.cn
 0.0.0.0 spraymatic.com.ve
-0.0.0.0 moneyval.cf
 0.0.0.0 canatask.com
 0.0.0.0 tokensarg.com
 0.0.0.0 thlnk-php.xyz
@@ -772,7 +722,6 @@
 
 0.0.0.0 arlehostz.com
 0.0.0.0 hetolsen.com
-0.0.0.0 attincwe.weebly.com
 0.0.0.0 recoverycentercommunitystandards.co.vu
 0.0.0.0 profil-taxsclaimusa.serveftp.com
 0.0.0.0 renovkonstruksi.com
@@ -788,9 +737,7 @@
 0.0.0.0 patagnomia.com
 0.0.0.0 ksschool.org.in
 0.0.0.0 ora-n.yolasite.com
-0.0.0.0 a068982.cloudns.ph
 0.0.0.0 rufoxxy.com
-0.0.0.0 shop002.shop
 0.0.0.0 danspaintingco.com
 0.0.0.0 instaram.ru.com
 0.0.0.0 paypayys.com
@@ -804,7 +751,6 @@
 0.0.0.0 kddi-south.com
 0.0.0.0 monksec.tk
 0.0.0.0 violatenotificationsalert.co.vu
-0.0.0.0 attmailingdesk.weebly.com
 0.0.0.0 best-pc-protect.xyz
 0.0.0.0 virpropcnow.xyz
 
@@ -812,7 +758,6 @@
 0.0.0.0 mediaget.com
 
 0.0.0.0 mufgbjk.com
-0.0.0.0 paydfr.com
 0.0.0.0 artlonelysh.com
 0.0.0.0 nab-au.online
 0.0.0.0 rakutenbk.com
@@ -838,11 +783,9 @@
 0.0.0.0 002redir023.dns04.com
 0.0.0.0 cloudtech.com.pk
 0.0.0.0 6836597.com
-0.0.0.0 bqog-gjytms.ml
 0.0.0.0 stoptheblackout.com
 0.0.0.0 syncwallet-dapp.com
 0.0.0.0 lnterbanksunat.com
-0.0.0.0 xn--mpresas-9xa.xn--lnterbnki-51a.com
 0.0.0.0 jtjer7iiu.top
 0.0.0.0 bbsjzn.com
 0.0.0.0 arabeautyshop.com
@@ -871,7 +814,6 @@
 0.0.0.0 po-reschedule-package.com
 0.0.0.0 apple-support-online.com
 0.0.0.0 coliscolissimoshop.com
-0.0.0.0 10azc.info
 0.0.0.0 ebnb-9390-list.gmbh
 0.0.0.0 userverify-auth02c.dns04.com
 0.0.0.0 jbfzfd.tk
@@ -895,7 +837,6 @@
 0.0.0.0 goimed.us
 0.0.0.0 smbcbc.com
 0.0.0.0 jeffradkeonline.com
-0.0.0.0 4eb8fb47d7.nxcli.net
 0.0.0.0 visionproperty.in
 0.0.0.0 abaiaccounting.cn
 0.0.0.0 foiqyh8.cn
@@ -912,7 +853,6 @@
 0.0.0.0 shopjudelle.com
 0.0.0.0 furafideg.com
 0.0.0.0 japanbdc.com
-0.0.0.0 aremnbzsx.000webhostapp.com
 0.0.0.0 litasir.xyz
 0.0.0.0 trckxflow.xyz
 0.0.0.0 kuilahgsknads.link
@@ -956,7 +896,6 @@
 0.0.0.0 sabeecad.com
 0.0.0.0 masdas0932.co.vu
 0.0.0.0 saftypageupdate.workers.dev
-0.0.0.0 revolution-1000022233349786513212345678912387.gq
 0.0.0.0 rosecc.cf
 0.0.0.0 w6634s.webwave.dev
 
@@ -984,7 +923,6 @@
 0.0.0.0 profile-claimtax-reliefs.com
 0.0.0.0 orangeb182.temp.swtest.ru
 0.0.0.0 cmaplc.com.au
-0.0.0.0 temg6682.com
 0.0.0.0 it-notif.com
 0.0.0.0 unblockyoutube.co
 0.0.0.0 bsincattorneys.co.za
@@ -1010,7 +948,6 @@
 0.0.0.0 qc1lgp.cn
 0.0.0.0 pwanhsy.cn
 0.0.0.0 lifefailures333.co.vu
-0.0.0.0 dssddscccc.000webhostapp.com
 0.0.0.0 ourgarden.us
 0.0.0.0 dhl-ru.com
 0.0.0.0 blogmarketing4u.com
@@ -1025,7 +962,6 @@
 0.0.0.0 sevicclient.it.swtest.ru
 0.0.0.0 tarungdrajatsiokalama.com
 0.0.0.0 team-discord.com
-0.0.0.0 mobile-alert.link
 0.0.0.0 fellmanscouriers.co.uk
 0.0.0.0 cateringfoodanddrinksupplies777.business.site
 0.0.0.0 ayguru.com
@@ -1037,7 +973,6 @@
 
 # You Are An Idiot sites
 0.0.0.0 youdontknowwhoiam.org
-0.0.0.0 youareanindiot.org
 0.0.0.0 youareanidiot.cc
 
 0.0.0.0 amazon-jp-login.com
@@ -1061,7 +996,6 @@
 0.0.0.0 ideh.tv
 0.0.0.0 sites.google.com/view/updatesecure
 0.0.0.0 sites.google.com/view/abuse-privacy
-0.0.0.0 appsecuree88.co.vu
 0.0.0.0 referalsuport7612-mail.cloudns.nz
 0.0.0.0 forumasik.com
 0.0.0.0 centerdefinition.com
@@ -1093,7 +1027,6 @@
 0.0.0.0 hangovertest1.blogspot.com
 0.0.0.0 hindshoe.com
 0.0.0.0 account-paypal-modify.com
-0.0.0.0 attclassicmailportal.weebly.com
 0.0.0.0 portalbono-peru.com
 0.0.0.0 s3rvicios-lbk-pe.site
 0.0.0.0 business-appeal-copyright-1805.web.app
@@ -1122,10 +1055,8 @@
 0.0.0.0 zmpcoacu.cyou
 0.0.0.0 yqlpeitost.duckdns.org
 0.0.0.0 zoho-validationserv.web.app
-0.0.0.0 att456hun69.weebly.com
 0.0.0.0 extracash-facil.digitalweb-online.xyz
 0.0.0.0 bancaenlineal-interbark2.com
-0.0.0.0 onlineatt365.weebly.com
 0.0.0.0 kimaki.001www.com
 0.0.0.0 fsfsfsgggg.000webhostapp.com
 0.0.0.0 kookkuhhuuy.000webhostapp.com
@@ -1143,13 +1074,11 @@
 0.0.0.0 rm82j6-t8.cn0.0.0.0
 0.0.0.0 business-required-helpcenter82.web.app
 0.0.0.0 wasites.000webhostapp.com
-0.0.0.0 atimazo.shop
 0.0.0.0 maeosyneod.com
 0.0.0.0 mseosri.com
 0.0.0.0 sioanxh.xyz
 0.0.0.0 console-chekmailbox32.web.app
 0.0.0.0 postoffice-info-office.com
-0.0.0.0 soumya252000.github.io
 0.0.0.0 exam-discord.com
 0.0.0.0 bgmi-spins.com
 0.0.0.0 helpcenterr-001q.xyz
@@ -1170,3 +1099,4 @@
 0.0.0.0 mailservervalidationr158.web.app
 0.0.0.0 mailservervalidationr159.web.app
 0.0.0.0 mailservervalidationr160.web.app
+0.0.0.0 btinternethmoney.weebly.com
