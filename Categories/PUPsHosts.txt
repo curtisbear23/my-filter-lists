@@ -1,0 +1,81 @@
+# Pi-hole, AdAway, Hosts file of your PC, and uBlock Origin only!
+# Learn about PUPs: https://en.wikipedia.org/wiki/Potentially_unwanted_program
+# Title: Curtis Pharrell's PUPs List (Hosts Version)
+# Updated: Sat, 22 Jan 2022 18:40 UTC+08:00
+# Version: 1.0
+# Expires: 1 day (update frequency)
+# Description: This list is for blocking potentionally unwanted program.
+# Homepage: https://github.com/curtisbear23/my-filter-lists
+# License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
+# Start of this filter list: Sat, 22 Jan 2022
+
+# https://www.youtube.com/watch?v=bIpYJoE7CxA
+0.0.0.0 iobit.com
+
+# https://www.youtube.com/watch?v=HIPmnzH-Pr4
+0.0.0.0 totalav.com
+
+# Aliases of TotalAV.
+0.0.0.0 pcprotect.com
+0.0.0.0 protected.net
+
+# This site is pretending to be uBlock Origin. The real uBlock Origin is at https://github.com/gorhill/uBlock
+0.0.0.0 ublock.org
+
+# https://github.com/uBlockOrigin/uAssets/issues/1738
+0.0.0.0 audacity.de
+0.0.0.0 vlc.de
+
+# https://github.com/DandelionSprout/adfilt/issues/254
+0.0.0.0 onesafesoftware.com
+
+# Bad driver updaters, use Snappy Driver Installer instead (sdi-tool.org)
+0.0.0.0 drivereasy.com
+0.0.0.0 drivethelife.com
+0.0.0.0 drvhub.net
+0.0.0.0 ashampoo.com
+0.0.0.0 devicedoctor.com
+0.0.0.0 pchelpsoft.com
+0.0.0.0 driver-soft.com
+0.0.0.0 driverfix.com
+0.0.0.0 bit-guardian.com
+0.0.0.0 reviversoft.com
+0.0.0.0 winzipdriverupdater.com
+0.0.0.0 driver-fixer.com
+0.0.0.0 quickdriverupdater.com
+0.0.0.0 pctonics.com
+0.0.0.0 drivergenius.net
+0.0.0.0 drivermax.com
+0.0.0.0 getmydrivers.com
+
+# https://github.com/DandelionSprout/adfilt/issues/223
+0.0.0.0 speedupmypcfree.com
+
+# https://blog.malwarebytes.com/detections/pup-optional-driverpack
+0.0.0.0 driverpack.io
+
+# https://blog.malwarebytes.com/detections/pup-optional-restoro
+0.0.0.0 restoro.com
+
+# https://www.virustotal.com/gui/file/af7b36c0f9f48f35315877e3cd5efb83c1a122a043ea9228db7da9c1c3c3120b/detection
+0.0.0.0 mediaget.com
+
+# New Reddit: https://www.reddit.com/r/duckduckgo/comments/rnahxq/found_a_fake_website_pretending_to_have_a
+# Old Reddit: https://old.reddit.com/r/duckduckgo/comments/rnahxq/found_a_fake_website_pretending_to_have_a
+0.0.0.0 duckduckgo-browser.com
+
+# This website is made by Lavasoft who also made the program "Lavasoft Web Companion".
+# Lavasoft Web Companion is known to be a bad program.
+# More info here: https://appuals.com/what-is-lavasoft-web-companion-and-should-it-be-removed
+0.0.0.0 adaware.com
+
+# uTorrent is a torrent client that has been caught downloading malware.
+# More info here: https://en.wikipedia.org/wiki/%CE%9CTorrent#Ads_and_malware
+# If you want a good BitTorrent client, check out qBittorrent (qbittorrent.org) It's free and open source.
+0.0.0.0 utorrent.com
+
+# https://www.virustotal.com/gui/file/0333988d52da8b27e865657ffa2c4cb8e96b43fce7d6d7b72458a0b176713924/detection
+0.0.0.0 bittorrent.com
+
+# https://blog.malwarebytes.com/detections/pup-optional-opencandy
+0.0.0.0 opencandy.com

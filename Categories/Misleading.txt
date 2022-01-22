@@ -1,0 +1,70 @@
+! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
+! Title: Curtis Pharrell's Misleading List
+! Updated: Sat, 22 Jan 2022 18:40 UTC+08:00
+! Version: 1.0
+! Expires: 1 day (update frequency)
+! Description: This list is for blocking dangerous websites and page elements.
+! Homepage: https://github.com/curtisbear23/my-filter-lists
+! License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
+! Sources: PhishTank, OpenPhish, PhishStats, URLhaus, ThreatFox, and my own analysis.
+! Start of this filter list: Sat, 22 Jan 2022
+
+! Bad review sites/channels.
+||vpnpro.com^$document
+||vpnmentor.com^$document
+||cybernews.com^$document
+||safetydetectives.com^$document
+||comparatif-vpn.fr^$document
+||antivirus-review.com^$document
+||10bestantivirus.com^$document
+||youtube.com/channel/UCEwH5yFKrIGhXjoulR-xwpg^$document
+||youtube.com/channel/UCH8rELPlKb04Auy6VIoEMRA^$document
+||youtube.com/c/TheCyberLab^$document
+||youtube.com/c/VPNprochannel^$document
+||youtube.com/channel/UCa8DFrJJjaG_nj1MEZ2rMDA^$document
+||youtube.com/channel/UCCsREoj8rSRkEvxWqxr74rQ^$document
+||youtube.com/c/CyberNews^$document
+||youtube.com/channel/UC0jJMyy2fu1mk2McRcEqfRA^$document
+||youtube.com/c/SafetyDetectives^$document
+||youtube.com/channel/UCQpt7k8rJX-70Xh_fXI_7Zg^$document
+||youtube.com/c/TRUEREVIEWZ^$document
+||youtube.com/channel/UCb7BP-QOU5bmabEx3NAA_Aw^$document
+||youtube.com/c/ComparatifVPN^$document
+||youtube.com/channel/UCsHTScuvl2Po0TETeqbY8rA^$document
+||youtube.com/channel/UCpluDo_5aMWLxS-1JIbCoCw^$document
+||youtube.com/c/TechSiteReviews^$document
+||youtube.com/user/hifiheaven^$document
+||youtube.com/channel/UCEA9ROzwUTy6t-QdLuWrjnw^$document
+||youtube.com/c/vpnMentor^$document
+||youtube.com/channel/UCGEJJTuxb6E26xzRmWDS-9A^$document
+||youtube.com/c/UCGEJJTuxb6E26xzRmWDS-9^$document
+||youtube.com/user/techdoctoruk^$document
+||youtube.com/c/techdoctoruk^$document
+
+! The list below is for hiding the bad review channels on YouTube.
+youtube.com##ytd-video-renderer:has-text(CyberNews)
+youtube.com##ytd-video-renderer:has-text(The Cyber Lab)
+youtube.com##ytd-video-renderer:has-text(Geekman)
+youtube.com##ytd-video-renderer:has-text(Comparatif VPN)
+youtube.com##ytd-video-renderer:has-text(Site Starters)
+youtube.com##ytd-video-renderer:has-text(Tech Site Reviews)
+youtube.com##ytd-video-renderer:has-text(Consumer Research Studios)
+youtube.com##ytd-video-renderer:has-text(Safety Detectives)
+youtube.com##ytd-video-renderer:has-text(VPNpro)
+youtube.com##ytd-video-renderer:has-text(vpnMentor)
+youtube.com##ytd-video-renderer:has-text(Privacy King)
+youtube.com##ytd-video-renderer:has-text(TechDoctorUK)
+youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
+
+! IQ test sites that try to charge you to see the results.
+||funeducation.com^$document
+||iq-research.info^$document
+||test-iq.org^$document
+||iq-global-test.com^$document
+
+! Misleading sites
+||therichest.com^$document
+||brightside.me^$document
+
+! This site promotes the bad driver updater called "Bit Driver Updater".
+||freedriverupdater.com^$document

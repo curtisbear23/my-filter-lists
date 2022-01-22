@@ -1,0 +1,31 @@
+# Pi-hole, AdAway, Hosts file of your PC, and uBlock Origin only!
+# Title: Curtis Pharrell's Misleading List (Hosts Version)
+# Updated: Sat, 22 Jan 2022 18:40 UTC+08:00
+# Version: 1.0
+# Expires: 1 day (update frequency)
+# Description: This list is for blocking potentionally unwanted program.
+# Homepage: https://github.com/curtisbear23/my-filter-lists
+# License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
+# Start of this filter list: Sat, 22 Jan 2022
+
+# Bad review sites
+0.0.0.0 vpnpro.com
+0.0.0.0 vpnmentor.com
+0.0.0.0 cybernews.com
+0.0.0.0 safetydetectives.com
+0.0.0.0 comparatif-vpn.fr
+0.0.0.0 antivirus-review.com
+0.0.0.0 10bestantivirus.com
+
+# IQ test sites that try to charge you to see the results.
+0.0.0.0 funeducation.com
+0.0.0.0 iq-research.info
+0.0.0.0 test-iq.org
+0.0.0.0 iq-global-test.com
+
+# Misleading sites
+0.0.0.0 therichest.com
+0.0.0.0 brightside.me
+
+# This site promotes the bad driver updater called "Bit Driver Updater".
+0.0.0.0 freedriverupdater.com
