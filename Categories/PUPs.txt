@@ -1,10 +1,10 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! Learn about PUPs: https://en.wikipedia.org/wiki/Potentially_unwanted_program
 ! Title: Curtis Pharrell's PUPs List
-! Updated: Sat, 22 Jan 2022 18:40 UTC+08:00
+! Updated: Sat, 22 Jan 2022 18:43 UTC+08:00
 ! Version: 1.0
 ! Expires: 1 day (update frequency)
-! Description: This list is for blocking potentionally unwanted program.
+! Description: This list is for blocking potentionally unwanted programs.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
 ! License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
 ! Start of this filter list: Sat, 22 Jan 2022
