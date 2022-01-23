@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Sat, 22 Jan 2022 18:40 UTC+08:00
-# Version: 1.17
+# Updated: Sun, 23 Jan 2022 17:26 UTC+08:00
+# Version: 1.18
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -1101,3 +1101,11 @@
 0.0.0.0 mailservervalidationr160.web.app
 0.0.0.0 btinternethmoney.weebly.com
 0.0.0.0 docsharex-authorize.web.app
+0.0.0.0 bndigitalpersonas.com
+0.0.0.0 centraldigitalcr.com
+0.0.0.0 my-online-gold.com
+0.0.0.0 sasadastone.com
+0.0.0.0 k8lspd3.cn
+0.0.0.0 skmsceo.cn
+0.0.0.0 wa0fril.cn
+0.0.0.0 royalresearch.co.in
