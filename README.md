@@ -1,12 +1,24 @@
 # My Filter Lists
 
-These are my filter lists for uBlock Origin and AdGuard.
+These are my filter lists for uBlock Origin, AdGuard, Pi-hole, and AdAway to make the internet a safer place.
 
 My lists:
 
-[Dangerous Websites List - For uBlock Origin and AdGuard (except AdGuard Home and AdGuard for iOS)](https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt)
+[Dangerous Websites List](https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt)
 
-[Dangerous Websites List Hosts Version - For Pi-hole, AdAway, Hosts file of PC, and uBlock Origin](https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites-hosts-version.txt)
+[Dangerous Websites List (Hosts Version)](https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites-hosts-version.txt)
+
+[Dangerous Websites List (Malware, Phishing, and Scams only)](https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/Categories/MalwarePhishingAndScams.txt)
+
+[Dangerous Websites List (Malware, Phishing, and Scams only - Hosts Version)](https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/Categories/MalwarePhishingAndScamsHosts.txt)
+
+[Dangerous Websites List (PUPs only)](https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/Categories/PUPs.txt)
+
+[Dangerous Websites List (PUPs only - Hosts Version)](https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/Categories/PUPsHosts.txt)
+
+[Dangerous Websites List (Misleading sites only)](https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/Categories/Misleading.txt)
+
+[Dangerous Websites List (Misleading sites only - Hosts Version)](https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/Categories/MisleadingHosts.txt)
 
 # Want to report dangerous website(s) or false positives?
 
@@ -29,3 +41,7 @@ Having links to web security vendors detecting the domain as unsafe are optional
 [Norton Safe Web](https://safeweb.norton.com)
 
 [VirusTotal](https://www.virustotal.com/gui/home/url)
+
+# License
+
+My filter lists are under the Apache License Version 2.0. License text here: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
