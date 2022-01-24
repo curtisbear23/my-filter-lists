@@ -1,8 +1,8 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Sun, 23 Jan 2022 17:26 UTC+08:00
-! Version: 1.83
+! Updated: Mon, 24 Jan 2022 16:58 UTC+08:00
+! Version: 1.84
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -106,7 +106,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||219.157.63.207^$document
 ||59.177.36.98^$document
 ||42.224.139.56^$document
-||179.43.187.131^$document
 ||115.56.217.112^$document
 ||61.52.11.16^$document
 ||42.229.238.180^$document
@@ -188,7 +187,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||155.94.129.137^$document
 ||104.21.43.217^$document
 ||103.134.19.92^$document
-||101.132.190.179^$document
 ||94.103.9.29^$document
 ||115.49.239.98^$document
 ||125.26.252.33^$document
@@ -199,7 +197,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||20.187.105.63^$document
 ||198.148.127.72^$document
 ||158.247.197.41^$document
-||45.167.148.180^$document
 ||182.124.160.254^$document
 ||185.204.217.174^$document
 ||44.234.34.194^$document
@@ -231,7 +228,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||198.148.126.33^$document
 ||103.253.43.84^$document
 ||207.246.108.150^$document
-||163.125.139.4^$document
 ||182.118.240.221^$document
 ||77.83.199.75^$document
 ||77.83.199.120^$document
@@ -240,7 +236,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||45.207.47.55^$document
 ||222.137.112.50^$document
 ||182.116.105.217^$document
-||103.79.113.191^$document
 ||221.15.48.92^$document
 ||42.228.239.118^$document
 ||190.123.45.227^$document
@@ -297,12 +292,9 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||178.62.232.173^$document
 ||45.77.241.86^$document
 ||138.68.229.86^$document
-||68.183.252.42^$document
-||128.14.230.205^$document
 ||135.181.211.109^$document
 ||172.67.182.4^$document
 ||103.45.229.140^$document
-||27.54.123.37^$document
 ||123.12.19.207^$document
 ||115.56.166.9^$document
 ||45.167.150.19^$document
@@ -317,7 +309,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||150.129.105.61^$document
 ||180.180.217.199^$document
 ||195.2.93.155^$document
-||159.65.96.108^$document
 ||103.59.147.74^$document
 ||103.96.74.164^$document
 ||198.251.89.144^$document
@@ -336,7 +327,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||87.249.53.87^$document
 ||13.38.66.168^$document
 ||110.42.178.227^$document
-||52.234.24.23^$document
 ||107.6.182.73^$document
 ||175.23.208.127^$document
 ||42.226.71.98^$document
@@ -481,7 +471,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||ibizadiamonds.com^$document
 
 ||dynatech-int.com^$document
-||cgjnr.cn^$document
 ||1868365.com^$document
 ||649265.pw^$document
 ||orlentrust.biz^$document
@@ -714,7 +703,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||coaoreand.com^$document
 ||geepada.com^$document
 ||secure-amazons.com^$document
-||userinfo-paypal.com^$document
 ||userinfo-paypal.net^$document
 ||bc-accts.com^$document
 ||zgmhx.com^$document
@@ -1364,9 +1352,7 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||verifycryptowallet.com^$document
 ||sites.google.com/view/newuploadpage^$document
 ||sites.google.com/view/nextprojectpage^$document
-||ucokgrey.000webhostapp.com^$document
 ||creatorsverificationandsafetybusinessaccount.co.vu^$document
-||semogaadahikmahnya.000webhostapp.com^$document
 ||hujanbadai.000webhostapp.com^$document
 ||eehirbw.cn^$document
 ||fuchsia-funny-chauffeur.glitch.me^$document
@@ -1425,7 +1411,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||rm82j6-t8.cn^$document
 ||business-required-helpcenter82.web.app^$document
 ||wasites.000webhostapp.com^$document
-||atimazo.shop^$document
 ||maeosyneod.com^$document
 ||mseosri.com^$document
 ||sioanxh.xyz^$document
@@ -1451,7 +1436,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||mailservervalidationr158.web.app^$document
 ||mailservervalidationr159.web.app^$document
 ||mailservervalidationr160.web.app^$document
-||btinternethmoney.weebly.com^$document
 ||docsharex-authorize.web.app^$document
 ||bndigitalpersonas.com^$document
 ||centraldigitalcr.com^$document

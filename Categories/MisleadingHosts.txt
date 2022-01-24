@@ -1,7 +1,7 @@
 # Pi-hole, AdAway, Hosts file of your PC, and uBlock Origin only!
 # Title: Curtis Pharrell's Misleading List (Hosts Version)
-# Updated: Sat, 22 Jan 2022 18:40 UTC+08:00
-# Version: 1.0
+# Updated: Mon, 24 Jan 2022 16:58 UTC+08:00
+# Version: 1.1
 # Expires: 1 day (update frequency)
 # Description: This list is for blocking potentionally unwanted program.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -22,6 +22,7 @@
 0.0.0.0 iq-research.info
 0.0.0.0 test-iq.org
 0.0.0.0 iq-global-test.com
+0.0.0.0 iq-test-international.org
 
 # Misleading sites
 0.0.0.0 therichest.com

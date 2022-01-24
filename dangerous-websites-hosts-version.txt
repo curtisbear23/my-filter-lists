@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Sun, 23 Jan 2022 17:26 UTC+08:00
-# Version: 1.18
+# Updated: Mon, 24 Jan 2022 16:58 UTC+08:00
+# Version: 1.19
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -141,7 +141,6 @@
 0.0.0.0 ibizadiamonds.com
 
 0.0.0.0 dynatech-int.com
-0.0.0.0 cgjnr.cn
 0.0.0.0 1868365.com
 0.0.0.0 649265.pw
 0.0.0.0 orlentrust.biz
@@ -1013,9 +1012,7 @@
 0.0.0.0 verifycryptowallet.com
 0.0.0.0 sites.google.com/view/newuploadpage
 0.0.0.0 sites.google.com/view/nextprojectpage
-0.0.0.0 ucokgrey.000webhostapp.com
 0.0.0.0 creatorsverificationandsafetybusinessaccount.co.vu
-0.0.0.0 semogaadahikmahnya.000webhostapp.com
 0.0.0.0 hujanbadai.000webhostapp.com
 0.0.0.0 eehirbw.cn
 0.0.0.0 fuchsia-funny-chauffeur.glitch.me
@@ -1099,7 +1096,6 @@
 0.0.0.0 mailservervalidationr158.web.app
 0.0.0.0 mailservervalidationr159.web.app
 0.0.0.0 mailservervalidationr160.web.app
-0.0.0.0 btinternethmoney.weebly.com
 0.0.0.0 docsharex-authorize.web.app
 0.0.0.0 bndigitalpersonas.com
 0.0.0.0 centraldigitalcr.com
