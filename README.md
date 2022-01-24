@@ -1,6 +1,7 @@
 # My Filter Lists
 
 These are my filter lists for uBlock Origin, AdGuard, Pi-hole, and AdAway to make the internet a safer place.
+To keep my lists as small as possible, I remove inactive domains once a week using [PyFunceble](https://github.com/funilrys/PyFunceble).
 
 My lists:
 
