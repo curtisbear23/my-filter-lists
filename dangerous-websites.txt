@@ -1,8 +1,8 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Mon, 24 Jan 2022 16:58 UTC+08:00
-! Version: 1.84
+! Updated: Tue, 25 Jan 2022 15:47 UTC+08:00
+! Version: 1.85
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -439,6 +439,8 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||drivergenius.net^$document
 ||drivermax.com^$document
 ||getmydrivers.com^$document
+||driveridentifier.com^$document
+||driverupdate.net^$document
 
 ||vuisjaolenskdvpeeass.icu^$document
 ||intsatnet.com^$document

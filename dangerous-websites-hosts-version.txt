@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Mon, 24 Jan 2022 16:58 UTC+08:00
-# Version: 1.19
+# Updated: Tue, 25 Jan 2022 15:47 UTC+08:00
+# Version: 1.20
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -107,6 +107,8 @@
 0.0.0.0 drivergenius.net
 0.0.0.0 drivermax.com
 0.0.0.0 getmydrivers.com
+0.0.0.0 driveridentifier.com
+0.0.0.0 driverupdate.net
 
 0.0.0.0 vuisjaolenskdvpeeass.icu
 0.0.0.0 intsatnet.com

@@ -1,8 +1,8 @@
 # Pi-hole, AdAway, Hosts file of your PC, and uBlock Origin only!
 # Learn about PUPs: https://en.wikipedia.org/wiki/Potentially_unwanted_program
 # Title: Curtis Pharrell's PUPs List (Hosts Version)
-# Updated: Sun, 23 Jan 2022 17:26 UTC+08:00
-# Version: 1.1
+# Updated: Sun, 23 Jan 2022 15:47 UTC+08:00
+# Version: 1.2
 # Expires: 1 day (update frequency)
 # Description: This list is for blocking potentionally unwanted programs.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -48,6 +48,7 @@
 0.0.0.0 drivermax.com
 0.0.0.0 getmydrivers.com
 0.0.0.0 driveridentifier.com
+0.0.0.0 driverupdate.net
 
 # https://github.com/DandelionSprout/adfilt/issues/223
 0.0.0.0 speedupmypcfree.com
