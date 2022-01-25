@@ -1,7 +1,7 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Tue, 25 Jan 2022 15:47 UTC+08:00
+! Updated: Tue, 25 Jan 2022 15:59 UTC+08:00
 ! Version: 1.85
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
@@ -1447,3 +1447,21 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||skmsceo.cn^$document
 ||wa0fril.cn^$document
 ||royalresearch.co.in^$document
+||claim-hadiah-gratis-dari-abang.duckdns.org^$document
+||iventgarena123.duckdns.org^$document
+||claim-diamond-freefire-ff.duckdns.org^$document
+||bold-hollow-ambert.glitch.me^$document
+||myjecsob.com^$document
+||smt-padiby.cc^$document
+||keswap.finance^$document
+||3655microoffice.com^$document
+||metakyc-location.buzz^$document
+||stuartsfiddles.com^$document
+||yajshm.weebly.com^$document
+||jaleelrippin.com^$document
+||postoffice.direct-webpage.info^$document
+||trnckargo.com^$document
+||lomisua.top^$document
+||dappsdrops.com^$document
+||nabaccountau.duckdns.org^$document
+||vigorous-wright-629bbc.netlify.app^$document
