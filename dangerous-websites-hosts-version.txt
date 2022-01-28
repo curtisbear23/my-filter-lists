@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Wed, 26 Jan 2022 15:41 UTC+08:00
-# Version: 1.21
+# Updated: Fri, 28 Jan 2022 11:17 UTC+08:00
+# Version: 1.22
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -1131,3 +1131,12 @@
 0.0.0.0 radianthospitals.org
 0.0.0.0 monomobileservice.yolasite.com
 0.0.0.0 xn--hzlldijitllgirisbildirim-qvdd.com
+0.0.0.0 grup-whatsappviral-2.duckdns.org
+0.0.0.0 steamcommunyty.com.ru
+0.0.0.0 help-instagram.tk
+0.0.0.0 secure-auth-login.dynamic-dns.net
+0.0.0.0 citizensonlineauth-mobile.duckdns.org
+0.0.0.0 elpizogroup.org
+0.0.0.0 bb-seguranca-digital.com
+0.0.0.0 amegowetgewtghwgiiopuero.online
+0.0.0.0 zuwnkmkrjh.duckdns.org
