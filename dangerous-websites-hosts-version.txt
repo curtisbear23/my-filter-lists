@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Fri, 28 Jan 2022 11:17 UTC+08:00
-# Version: 1.22
+# Updated: Sat, 29 Jan 2022 20:00 UTC+08:00
+# Version: 1.23
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -14,9 +14,6 @@
 # https://www.youtube.com/watch?v=bIpYJoE7CxA
 0.0.0.0 iobit.com
 
-0.0.0.0 iplogger.org
-0.0.0.0 iplogger.com
-0.0.0.0 grabify.link
 0.0.0.0 shorte.st
 0.0.0.0 sh.st
 
@@ -81,7 +78,6 @@
 0.0.0.0 definitionism.com
 0.0.0.0 disneyplusgermany.net
 0.0.0.0 redirect-office365.serveusers.com
-0.0.0.0 jp.mercari.wyiokj.shop
 0.0.0.0 miracdoviz.com
 0.0.0.0 msareqcadtvqrt.xyz
 0.0.0.0 7lyonline.com
@@ -554,7 +550,6 @@
 0.0.0.0 xn--lntrbnlk-pe-o7a5h.com
 0.0.0.0 airdrop-nitro.com
 0.0.0.0 awirabigmoneyrolls.xyz
-0.0.0.0 freeclick.club
 0.0.0.0 freeclick.me
 
 # This site promotes the bad driver updater called "Bit Driver Updater".
@@ -762,7 +757,6 @@
 0.0.0.0 artlonelysh.com
 0.0.0.0 nab-au.online
 0.0.0.0 rakutenbk.com
-0.0.0.0 extraordinarily.servehalflife.com
 0.0.0.0 shanhaidian.com
 0.0.0.0 safetysmitama.co
 0.0.0.0 ff-garenavn-members.com
@@ -897,7 +891,6 @@
 0.0.0.0 sabeecad.com
 0.0.0.0 masdas0932.co.vu
 0.0.0.0 saftypageupdate.workers.dev
-0.0.0.0 rosecc.cf
 0.0.0.0 w6634s.webwave.dev
 
 # https://scammer.info/t/airdrop-discord-nitro-with-steam-scam-7-977-525-68-47/86156
@@ -911,7 +904,6 @@
 0.0.0.0 prefabrikdepo.net
 0.0.0.0 enlineanetperu-lbk.com
 0.0.0.0 pfunt.com
-0.0.0.0 rectifyonline.org
 0.0.0.0 orlen.digital
 0.0.0.0 jalfadent.top
 0.0.0.0 indoge-site.preview-domain.com
@@ -1015,7 +1007,6 @@
 0.0.0.0 sites.google.com/view/newuploadpage
 0.0.0.0 sites.google.com/view/nextprojectpage
 0.0.0.0 creatorsverificationandsafetybusinessaccount.co.vu
-0.0.0.0 hujanbadai.000webhostapp.com
 0.0.0.0 eehirbw.cn
 0.0.0.0 fuchsia-funny-chauffeur.glitch.me
 0.0.0.0 ecogreenjanitorial.com
@@ -1057,8 +1048,6 @@
 0.0.0.0 extracash-facil.digitalweb-online.xyz
 0.0.0.0 bancaenlineal-interbark2.com
 0.0.0.0 kimaki.001www.com
-0.0.0.0 fsfsfsgggg.000webhostapp.com
-0.0.0.0 kookkuhhuuy.000webhostapp.com
 0.0.0.0 metamask-connect.org
 0.0.0.0 wzsrc.cn
 0.0.0.0 nanofresh.cn
@@ -1117,7 +1106,6 @@
 0.0.0.0 3655microoffice.com
 0.0.0.0 metakyc-location.buzz
 0.0.0.0 stuartsfiddles.com
-0.0.0.0 yajshm.weebly.com
 0.0.0.0 jaleelrippin.com
 0.0.0.0 postoffice.direct-webpage.info
 0.0.0.0 trnckargo.com
@@ -1125,8 +1113,6 @@
 0.0.0.0 dappsdrops.com
 0.0.0.0 nabaccountau.duckdns.org
 0.0.0.0 vigorous-wright-629bbc.netlify.app
-0.0.0.0 bhavin0077.github.io
-0.0.0.0 yahooupdateddnd.weebly.com
 0.0.0.0 tulemateriallimited37.cyou
 0.0.0.0 radianthospitals.org
 0.0.0.0 monomobileservice.yolasite.com
@@ -1137,6 +1123,11 @@
 0.0.0.0 secure-auth-login.dynamic-dns.net
 0.0.0.0 citizensonlineauth-mobile.duckdns.org
 0.0.0.0 elpizogroup.org
-0.0.0.0 bb-seguranca-digital.com
 0.0.0.0 amegowetgewtghwgiiopuero.online
 0.0.0.0 zuwnkmkrjh.duckdns.org
+0.0.0.0 mailplusrolerequestedprivatemailupdates.pages.dev
+0.0.0.0 amazon.works.ga
+0.0.0.0 gifttax.jp
+0.0.0.0 user-paypal-unusual.org
+0.0.0.0 chronopostaws.com
+0.0.0.0 img-pict.duckdns.org

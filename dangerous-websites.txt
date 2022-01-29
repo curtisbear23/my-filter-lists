@@ -1,8 +1,8 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Fri, 28 Jan 2022 11:17 UTC+08:00
-! Version: 1.87
+! Updated: Sat, 29 Jan 2022 20:00 UTC+08:00
+! Version: 1.88
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -13,9 +13,6 @@
 ! https://www.youtube.com/watch?v=bIpYJoE7CxA
 ||iobit.com^$document
 
-||iplogger.org^$document
-||iplogger.com^$document
-||grabify.link^$document
 ||shorte.st^$document
 ||sh.st^$document
 
@@ -119,7 +116,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||123.14.196.45^$document
 ||123.8.9.14^$document
 ||123.28.228.96^$document
-||159.89.33.148^$document
 ||60.179.37.89^$document
 ||192.52.166.14^$document
 ||115.50.228.125^$document
@@ -271,7 +267,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||185.166.219.133^$document
 ||101.34.110.138^$document
 ||49.235.69.23^$document
-||162.14.110.131^$document
 ||18.116.203.79^$document
 ||119.188.210.134^$document
 ||94.74.110.209^$document
@@ -357,7 +352,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||61.52.208.115^$document
 ||141.136.39.64^$document
 ||185.204.109.248^$document
-||121.122.71.163^$document
 ||181.214.39.189^$document
 ||59.92.44.105^$document
 ||84.213.216.128^$document
@@ -376,7 +370,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||115.61.79.172^$document
 ||115.50.17.98^$document
 ||120.193.91.201^$document
-||134.122.134.64^$document
 ||182.56.221.241^$document
 ||115.55.29.24^$document
 ||182.121.46.145^$document
@@ -395,14 +388,10 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||27.153.130.246^$document
 ||221.14.17.83^$document
 ||144.34.188.234^$document
-||113.9.111.17^$document
-||124.133.65.179^$document
 ||200.6.243.122^$document
 ||115.56.153.116^$document
 ||58.187.23.119^$document
-||61.3.180.177^$document
 ||1.117.176.102^$document
-||82.157.57.149^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -425,7 +414,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||disneyplusgermany.net^$document
 ||therxreview.com/oneddrive^$document
 ||redirect-office365.serveusers.com^$document
-||jp.mercari.wyiokj.shop^$document
 ||miracdoviz.com^$document
 ||msareqcadtvqrt.xyz^$document
 ||7lyonline.com^$document
@@ -905,7 +893,6 @@ sdi-tool.org##.review_slider
 ||xn--lntrbnlk-pe-o7a5h.com^$document
 ||airdrop-nitro.com^$document
 ||awirabigmoneyrolls.xyz^$document
-||freeclick.club^$document
 ||freeclick.me^$document
 
 ! This site promotes the bad driver updater called "Bit Driver Updater".
@@ -1116,7 +1103,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||artlonelysh.com^$document
 ||nab-au.online^$document
 ||rakutenbk.com^$document
-||extraordinarily.servehalflife.com^$document
 ||shanhaidian.com^$document
 ||safetysmitama.co^$document
 ||ff-garenavn-members.com^$document
@@ -1251,7 +1237,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||sabeecad.com^$document
 ||masdas0932.co.vu^$document
 ||saftypageupdate.workers.dev^$document
-||rosecc.cf^$document
 ||w6634s.webwave.dev^$document
 
 ! https://scammer.info/t/airdrop-discord-nitro-with-steam-scam-7-977-525-68-47/86156
@@ -1265,7 +1250,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||prefabrikdepo.net^$document
 ||enlineanetperu-lbk.com^$document
 ||pfunt.com^$document
-||rectifyonline.org^$document
 ||orlen.digital^$document
 ||jalfadent.top^$document
 ||indoge-site.preview-domain.com^$document
@@ -1367,7 +1351,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||sites.google.com/view/newuploadpage^$document
 ||sites.google.com/view/nextprojectpage^$document
 ||creatorsverificationandsafetybusinessaccount.co.vu^$document
-||hujanbadai.000webhostapp.com^$document
 ||eehirbw.cn^$document
 ||fuchsia-funny-chauffeur.glitch.me^$document
 ||ecogreenjanitorial.com^$document
@@ -1409,8 +1392,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||extracash-facil.digitalweb-online.xyz^$document
 ||bancaenlineal-interbark2.com^$document
 ||kimaki.001www.com^$document
-||fsfsfsgggg.000webhostapp.com^$document
-||kookkuhhuuy.000webhostapp.com^$document
 ||metamask-connect.org^$document
 ||wzsrc.cn^$document
 ||nanofresh.cn^$document
@@ -1469,7 +1450,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||3655microoffice.com^$document
 ||metakyc-location.buzz^$document
 ||stuartsfiddles.com^$document
-||yajshm.weebly.com^$document
 ||jaleelrippin.com^$document
 ||postoffice.direct-webpage.info^$document
 ||trnckargo.com^$document
@@ -1477,8 +1457,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||dappsdrops.com^$document
 ||nabaccountau.duckdns.org^$document
 ||vigorous-wright-629bbc.netlify.app^$document
-||bhavin0077.github.io^$document
-||yahooupdateddnd.weebly.com^$document
 ||tulemateriallimited37.cyou^$document
 ||radianthospitals.org^$document
 ||monomobileservice.yolasite.com^$document
@@ -1490,6 +1468,11 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||secure-auth-login.dynamic-dns.net^$document
 ||citizensonlineauth-mobile.duckdns.org^$document
 ||elpizogroup.org^$document
-||bb-seguranca-digital.com^$document
 ||amegowetgewtghwgiiopuero.online^$document
 ||zuwnkmkrjh.duckdns.org^$document
+||mailplusrolerequestedprivatemailupdates.pages.dev^$document
+||amazon.works.ga^$document
+||gifttax.jp^$document
+||user-paypal-unusual.org^$document
+||chronopostaws.com^$document
+||img-pict.duckdns.org^$document
