@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites-hosts-version.txt
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Sun, 30 Jan 2022 11:42 UTC+08:00
-# Version: 1.24
+# Updated: Mon, 31 Jan 2022 20:42 UTC+08:00
+# Version: 1.25
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -1142,3 +1142,4 @@
 0.0.0.0 business-page-verification1290.web.app
 0.0.0.0 aonenasn.top
 0.0.0.0 aonenasm.top
+0.0.0.0 whatsapp-group3.duckdns.org

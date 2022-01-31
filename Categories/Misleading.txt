@@ -1,7 +1,7 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! Title: Curtis Pharrell's Misleading List
-! Updated: Mon, 24 Jan 2022 16:58 UTC+08:00
-! Version: 1.1
+! Updated: Mon, 31 Jan 2022 20:42 UTC+08:00
+! Version: 1.2
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -9,7 +9,7 @@
 ! Sources: PhishTank, OpenPhish, PhishStats, URLhaus, ThreatFox, and my own analysis.
 ! Start of this filter list: Sat, 22 Jan 2022
 
-! Bad review sites/channels.
+! Bad review sites and channels.
 ||vpnpro.com^$document
 ||vpnmentor.com^$document
 ||cybernews.com^$document

@@ -1,8 +1,8 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Sun, 30 Jan 2022 11:42 UTC+08:00
-! Version: 1.89
+! Updated: Mon, 31 Jan 2022 20:42 UTC+08:00
+! Version: 1.90
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -16,7 +16,7 @@
 ||shorte.st^$document
 ||sh.st^$document
 
-! Bad review sites/channels.
+! Bad review sites and channels.
 ||vpnpro.com^$document
 ||vpnmentor.com^$document
 ||cybernews.com^$document
@@ -1488,3 +1488,4 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||business-page-verification1290.web.app^$document
 ||aonenasn.top^$document
 ||aonenasm.top^$document
+||whatsapp-group3.duckdns.org^$document
