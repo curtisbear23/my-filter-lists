@@ -1,8 +1,8 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Mon, 31 Jan 2022 20:42 UTC+08:00
-! Version: 1.90
+! Updated: Tue, 1 Feb 2022 14:49 UTC+08:00
+! Version: 1.91
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -393,6 +393,13 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||58.187.23.119^$document
 ||1.117.176.102^$document
 ||43.255.141.28^$document
+||112.239.99.17^$document
+||175.8.63.229^$document
+||117.217.151.48^$document
+||59.89.219.74^$document
+||27.45.32.26^$document
+||182.115.166.130^$document
+||125.125.211.204^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -1489,3 +1496,12 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||aonenasn.top^$document
 ||aonenasm.top^$document
 ||whatsapp-group3.duckdns.org^$document
+||onlinejunker.com^$document
+||customerverificationpaymentsinfo.shop^$document
+||achievehighperformancestreaming.co.vu^$document
+||bncrinf0rmacion.atwebpages.com^$document
+||grubbalosop--searmin.repl.co^$document
+||grubbaloso.searmin.repl.co^$document
+||natalieyesus.000webhostapp.com^$document
+||jasa-perjalanan-ade-jau-2354.web.id^$document
+||hanafidou.azurewebsites.net^$document
