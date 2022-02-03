@@ -1,8 +1,8 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
-! This list was previously hosted on https://curtispharrell.com/filter/dangerous-websites.txt
+! This list was previously hosted on my website then GitLab before it was moved to GitHub.
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Thu, 3 Feb 2022 11:50 UTC+08:00
-! Version: 1.93
+! Updated: Thu, 3 Feb 2022 11:57 UTC+08:00
+! Version: 1.93.1
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
