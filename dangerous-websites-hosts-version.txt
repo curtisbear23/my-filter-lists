@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on my website then GitLab before it was moved to GitHub.
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Thu, 3 Feb 2022 11:57 UTC+08:00
-# Version: 1.28.1
+# Updated: Fri, 4 Feb 2022 21:58 UTC+08:00
+# Version: 1.29
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -197,7 +197,6 @@
 0.0.0.0 ukhalifx.redirectme.net
 0.0.0.0 snnbc-carb.shop
 0.0.0.0 ft-xreg.site
-0.0.0.0 recaa.seiol-jp.cc
 0.0.0.0 online-web.it
 0.0.0.0 amozon.co.ip.snapshop.com.cn
 0.0.0.0 kayika.square.site
@@ -220,11 +219,9 @@
 0.0.0.0 trasportinger.com
 0.0.0.0 rakntvv.shop
 0.0.0.0 downloads.dd.com.mt
-0.0.0.0 allegrolokalnie-pl.54352.space
 0.0.0.0 pagedemo.co
 0.0.0.0 paxful-kiosk.com
 0.0.0.0 klgwebdesign.com
-0.0.0.0 sms.allegrolokalnie-pl.54352.space
 0.0.0.0 sms.inpost-pl.54352.space
 0.0.0.0 mercarl-pay.live
 0.0.0.0 mojitate.net
@@ -241,7 +238,6 @@
 0.0.0.0 autivesyllenesliopa.com
 0.0.0.0 yfmnyo.xyz
 0.0.0.0 putao27.shop
-0.0.0.0 bancalnterbank-sesion.com
 0.0.0.0 sswdss.xyz
 0.0.0.0 wholeactualnewz.com
 0.0.0.0 besty-deals.com
@@ -254,7 +250,6 @@
 0.0.0.0 clean-protection.xyz
 0.0.0.0 newssocial.org
 0.0.0.0 zhenhuizhu.com.cn
-0.0.0.0 mercari.jpdtr.info
 0.0.0.0 7b05y.bar
 0.0.0.0 02-bundle-cancel.com
 0.0.0.0 daysterinternational.com
@@ -266,7 +261,6 @@
 0.0.0.0 ahlibin.com
 0.0.0.0 u2connectnow.com
 0.0.0.0 3873365.com
-0.0.0.0 andimkdsam.com
 0.0.0.0 littleitalypizza.com
 0.0.0.0 ncjuniorfootball.org
 0.0.0.0 termination-trust.info
@@ -497,7 +491,6 @@
 0.0.0.0 parg.co
 0.0.0.0 1727365.com
 0.0.0.0 helpcenterinstagram.com
-0.0.0.0 kingordawn.com
 0.0.0.0 theflystripbook.com
 0.0.0.0 vk-money.xyz
 0.0.0.0 walletconnect-web.net
@@ -685,7 +678,6 @@
 0.0.0.0 tulsabailbondfinancing.com
 0.0.0.0 gesundheitundschonheit.com
 0.0.0.0 matadormeteo.com
-0.0.0.0 dijital-superkampanya.tk
 0.0.0.0 jjmryot.cn
 0.0.0.0 exoduswalle-t.com
 0.0.0.0 accotmyamzom.shop
@@ -710,8 +702,6 @@
 
 # https://github.com/uBlockOrigin/uAssets/issues/10171
 0.0.0.0 discordrgift.com
-
-0.0.0.0 pikirankitooyamang.co.vu
 
 # An antivirus test site
 0.0.0.0 malware.wicar.org
@@ -784,7 +774,6 @@
 0.0.0.0 jtjer7iiu.top
 0.0.0.0 bbsjzn.com
 0.0.0.0 arabeautyshop.com
-0.0.0.0 sirmakulasingsd.co.vu
 0.0.0.0 nscjesus2020.com
 0.0.0.0 anttikainulainen.com
 0.0.0.0 onlinehelp.link
@@ -1061,7 +1050,6 @@
 0.0.0.0 uihaish.xyz
 0.0.0.0 rm82j6-t8.cn0.0.0.0
 0.0.0.0 business-required-helpcenter82.web.app
-0.0.0.0 wasites.000webhostapp.com
 0.0.0.0 maeosyneod.com
 0.0.0.0 mseosri.com
 0.0.0.0 sioanxh.xyz
@@ -1137,14 +1125,12 @@
 0.0.0.0 addortude.000webhostapp.com
 0.0.0.0 paypal-accountrecovery.com
 0.0.0.0 socialpathogen.com
-0.0.0.0 saibom.xyz
 0.0.0.0 sgqy0ac.cn
 0.0.0.0 business-page-verification1290.web.app
 0.0.0.0 aonenasn.top
 0.0.0.0 aonenasm.top
 0.0.0.0 whatsapp-group3.duckdns.org
 0.0.0.0 onlinejunker.com
-0.0.0.0 customerverificationpaymentsinfo.shop
 0.0.0.0 achievehighperformancestreaming.co.vu
 0.0.0.0 bncrinf0rmacion.atwebpages.com
 0.0.0.0 grubbalosop--searmin.repl.co
@@ -1170,7 +1156,6 @@
 0.0.0.0 marcofreddi.top
 0.0.0.0 lendingcredit.top
 0.0.0.0 bcgty.duckdns.org
-0.0.0.0 treamn.xyz
 0.0.0.0 metamask.io-org.ru
 0.0.0.0 mantenaonline.com.br
 0.0.0.0 common-login.website
@@ -1179,3 +1164,5 @@
 0.0.0.0 xn--pensea-2wa.io
 0.0.0.0 ww-exodus.com
 0.0.0.0 business-page-active19872111.web.app
+0.0.0.0 keen-cori-0247ec.netlify.app
+0.0.0.0 chat-whatsupp.com
