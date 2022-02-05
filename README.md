@@ -1,5 +1,7 @@
 # My Filter Lists
 
+**Note:** It's recommended that you use Mozilla Firefox for this filter list. [Why use Firefox?](https://github.com/uBlockOrigin/uBlock-issues/issues/338#issuecomment-456134855)
+
 These are my filter lists for uBlock Origin, AdGuard, Pi-hole, and AdAway to make the internet a safer place.
 To keep my lists as small as possible, I remove inactive domains once a week using [PyFunceble](https://github.com/funilrys/PyFunceble).
 
