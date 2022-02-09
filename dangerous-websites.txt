@@ -1,8 +1,8 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! This list was previously hosted on my website then GitLab before it was moved to GitHub.
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Sat, 5 Feb 2022 18:38 UTC+08:00
-! Version: 1.95
+! Updated: Wed, 9 Feb 2022 11:21 UTC+08:00
+! Version: 1.96
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -401,6 +401,11 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||207.246.112.192^$document
 ||91.202.5.47^$document
 ||201.150.183.122^$document
+||182.119.207.21^$document
+||112.248.80.211^$document
+||61.0.12.118^$document
+||220.136.50.56^$document
+||37.46.135.124^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -1524,3 +1529,11 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||secure-online-payeeremoval.com^$document
 ||globoend.com.br^$document
 ||stanfieldcreations.com^$document
+||chickenskitchencatering.com^$document
+||sma-hot-virl-new2022.duckdns.org^$document
+||mstamsnaud.top^$document
+||amatax2.shop^$document
+||topnetmarketer.tk^$document
+
+! https://github.com/uBlockOrigin/uAssets/issues/11269
+||discqrdapp.com^$document
