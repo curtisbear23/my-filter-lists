@@ -1,8 +1,8 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! This list was previously hosted on my website then GitLab before it was moved to GitHub.
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Sat, 12 Feb 2022 12:25 UTC+08:00
-! Version: 1.97
+! Updated: Mon, 14 Feb 2022 16:31 UTC+08:00
+! Version: 1.98
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -252,7 +252,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||61.53.32.215^$document
 ||60.211.16.116^$document
 ||46.101.223.83^$document
-||192.144.218.97^$document
 ||139.9.72.112^$document
 ||103.208.86.39^$document
 ||96.45.171.61^$document
@@ -351,7 +350,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||61.52.208.115^$document
 ||141.136.39.64^$document
 ||185.204.109.248^$document
-||181.214.39.189^$document
 ||59.92.44.105^$document
 ||84.213.216.128^$document
 ||3.141.142.211^$document
@@ -402,14 +400,9 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||91.202.5.47^$document
 ||201.150.183.122^$document
 ||182.119.207.21^$document
-||112.248.80.211^$document
-||61.0.12.118^$document
 ||220.136.50.56^$document
 ||37.46.135.124^$document
-||183.97.44.23^$document
 ||103.173.137.21^$document
-||117.204.136.92^$document
-||117.195.93.140^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -630,7 +623,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||setimberonline.com^$document
 ||icwrhee.cn^$document
 ||aruba-pagamenti-area.com^$document
-||pancake-wap.com^$document
 ||olx-pol-and.com^$document
 ||valenciaoptometry.com^$document
 ||eluniversallatinworld.com^$document
@@ -648,7 +640,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||alpinezonetreks.com^$document
 ||userinformationstoreupdatesmail.pages.dev^$document
 ||sendmypyplstoreacademy.store^$document
-||panqakesvvip-api.com^$document
 ||oppaexpress.com^$document
 ||member-ff-garena.online^$document
 ||financialknack.com^$document
@@ -684,7 +675,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||carpetderatique.com^$document
 ||cvbhgjhgfj.com^$document
 ||ehjrjjqq.com^$document
-||prestamos-lnterbank-pe.com^$document
 ||vvelb.space^$document
 ||zhrhf9tn.top^$document
 ||tigerkan.org^$document
@@ -732,8 +722,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||amazonmhem.live^$document
 ||pure-devotion.org^$document
 ||bxb.gr^$document
-||gqrnyh.com^$document
-||enlineavalidacionoperacioneslnterban.com^$document
 ||updateverifyboiportal.com^$document
 ||pages-help-business.gq^$document
 ||wallectauthorisation.com^$document
@@ -751,11 +739,9 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||contactespaceclient02.info^$document
 ||auth-vk-com.ru^$document
 ||streamcomnunety.com^$document
-||mtbank001.dd-dns.de^$document
 ||sohbetyade.com^$document
 ||adobe-flash.co^$document
 ||destekmerkezi-instagram.com^$document
-||smbc.qbqqq.cn^$document
 ||986735.space^$document
 ||snaoem.shop^$document
 ||bloomtradefx.com/nabouja^$document
@@ -802,8 +788,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||viabcpt.com^$document
 ||segvrsenlineaoperacionlnterbans.xyz^$document
 ||mail-neae-reio-345-vero.herokuapp.com^$document
-||bancawlnterbank.com^$document
-||bancaslnterbank-alerta.com^$document
 ||designpositif.com^$document
 ||seyolu.cn^$document
 ||vpovzh.cn^$document
@@ -862,7 +846,6 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 filezilla-project.org##.downloadbutton
 filezilla-project.org##p:has-text(This installer may include bundled offers. Check below for more options.)
 
-||bancowlnterbank.com^$document
 ||nfabqdt.cn^$document
 ||vpass-smsn.com^$document
 ||payment911-safelink.com^$document
@@ -1243,7 +1226,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||snbaeaod.com^$document
 ||sebneecd.com^$document
 ||sabeecad.com^$document
-||masdas0932.co.vu^$document
 ||saftypageupdate.workers.dev^$document
 ||w6634s.webwave.dev^$document
 
@@ -1288,7 +1270,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||web-onlineportal.com^$document
 ||id-591601.xyz^$document
 ||iw6ugab.cn^$document
-||mardasdasod.co.vu^$document
 ||validationspege.workers.dev^$document
 ||9e0n4c.cn^$document
 ||mlqskfd.cn^$document
@@ -1486,14 +1467,12 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||babaadamoks.b-cdn.net^$document
 ||ads-404.000webhostapp.com^$document
 ||w4rn1ng-r3c0v3ryp4g3s.000webhostapp.com^$document
-||addortude.000webhostapp.com^$document
 ||paypal-accountrecovery.com^$document
 ||socialpathogen.com^$document
 ||sgqy0ac.cn^$document
 ||business-page-verification1290.web.app^$document
 ||aonenasn.top^$document
 ||aonenasm.top^$document
-||whatsapp-group3.duckdns.org^$document
 ||onlinejunker.com^$document
 ||achievehighperformancestreaming.co.vu^$document
 ||bncrinf0rmacion.atwebpages.com^$document
@@ -1501,7 +1480,6 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||grubbaloso.searmin.repl.co^$document
 ||natalieyesus.000webhostapp.com^$document
 ||jasa-perjalanan-ade-jau-2354.web.id^$document
-||hanafidou.azurewebsites.net^$document
 
 ! https://github.com/ThioJoe/YT-Spam-Lists/issues/75
 ||netpayjob.com^$document
@@ -1512,10 +1490,8 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||orxhacks.com^$document
 
 ||meta-kyclocations.live^$document
-||jvz7dkm6sy.buzz^$document
 ||jack-amaz0n.ddnsking.com^$document
 ||much-amaznm.servepics.com^$document
-||rueiconsareonm.cc^$document
 ||business-appeal-pagerestrict11.web.app^$document
 ||marcofreddi.top^$document
 ||lendingcredit.top^$document
