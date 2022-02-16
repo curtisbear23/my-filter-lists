@@ -9,7 +9,7 @@ labels: dangerous-website
 <!--- Replace the space within the brackets with x. -->
 
 ## What are the website(s) that you're reporting?
-```[Replace this with the website(s) you're reporting but leave the ` around it]```
+```Replace this with the website(s) you're reporting but leave the ` around it```
 
 ## Why are the website(s) dangerous?
 <!--- Replace this comment with your reason. -->
