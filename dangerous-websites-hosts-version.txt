@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on my website then GitLab before it was moved to GitHub.
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Thu, 17 Feb 2022 18:51 UTC+08:00
-# Version: 1.35
+# Updated: Fri, 25 Feb 2022 17:52 UTC+08:00
+# Version: 1.36
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -1174,3 +1174,5 @@
 0.0.0.0 hayaindia.com
 0.0.0.0 ful-phil.org
 0.0.0.0 zkbhytg.000webhostapp.com
+0.0.0.0 imagesidt.duckdns.org
+0.0.0.0 xnxxviral21s.duckdns.org

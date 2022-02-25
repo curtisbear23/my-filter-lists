@@ -1,8 +1,8 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! This list was previously hosted on my website then GitLab before it was moved to GitHub.
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Thu, 17 Feb 2022 18:51 UTC+08:00
-! Version: 2.0
+! Updated: Fri, 25 Feb 2022 17:52 UTC+08:00
+! Version: 2.1
 ! Expires: 1 day (update frequency)
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
@@ -1538,3 +1538,5 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||hayaindia.com^$document
 ||ful-phil.org^$document
 ||zkbhytg.000webhostapp.com^$document
+||imagesidt.duckdns.org^$document
+||xnxxviral21s.duckdns.org^$document
