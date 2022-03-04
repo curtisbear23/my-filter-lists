@@ -1,9 +1,9 @@
 ! uBlock Origin and AdGuard (expect AdGuard Home and AdGuard for iOS) only!
 ! This list was previously hosted on my website then GitLab before it was moved to GitHub.
 ! Title: Curtis Pharrell's Dangerous Website List
-! Updated: Tue, 1 Mar 2022 13:57 UTC+08:00
-! Version: 2.2
-! Expires: 1 day (update frequency)
+! Updated: Fri, 4 Mar 2022 14:44 UTC+08:00
+! Version: 2.3
+! Expires: 3 days
 ! Description: This list is for blocking dangerous websites and page elements.
 ! Homepage: https://github.com/curtisbear23/my-filter-lists
 ! License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -413,6 +413,14 @@ youtube.com##ytd-video-renderer:has-text(TRUE REVIEW)
 ||36.97.93.192^$document
 ||222.139.37.234^$document
 ||182.122.249.74^$document
+
+! https://github.com/DandelionSprout/adfilt/issues/253
+||23.111.31.137^$document
+||23.111.88.207^$document
+
+||103.139.224.163^$document
+||117.198.161.9^$document
+||112.233.108.91^$document
 
 ||tcp4.me^$document
 ||domynuts.ga^$document
@@ -1102,6 +1110,19 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ! https://www.virustotal.com/gui/file/af7b36c0f9f48f35315877e3cd5efb83c1a122a043ea9228db7da9c1c3c3120b/detection
 ||mediaget.com^$document
 
+! https://github.com/DandelionSprout/adfilt/issues/253
+||mediaget.ru^$document
+||media-get.com^$document
+||media-get.ru^$document
+||asset48.com^$document
+||carpet72.com^$document
+||clicktowebs.com^$document
+||content-proxy.xyz^$document
+||mediagetplus.com^$document
+||mgmgmg.com^$document
+||temp74.com^$document
+||trackwebclick.com^$document
+
 ||mufgbjk.com^$document
 ||artlonelysh.com^$document
 ||nab-au.online^$document
@@ -1551,3 +1572,13 @@ thewindowsclub.com##a:has-text(Download PC Repair Tool to quickly find & fix Win
 ||ihredkbonline.com^$document
 ||nenber-garena.com^$document
 ||mosaeri.com^$document
+
+! https://www.virustotal.com/gui/file/3f4c860c2689984f7edab62d5a5459840dc9515ec2c7a94b6fea6878481a3992/detection
+||pcspeedcat.com^$document
+
+||cryptomk.info^$document
+||bqsnmke.club^$document
+||bamcogemeral.com^$document
+||bmcell0nline0perator.tk^$document
+||confirm-zendesk.xyz^$document
+||vkpriz.click^$document

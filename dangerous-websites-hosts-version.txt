@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on my website then GitLab before it was moved to GitHub.
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Tue, 1 Mar 2022 13:57 UTC+08:00
-# Version: 1.37
+# Updated: Fri, 4 Mar 2022 14:44 UTC+08:00
+# Version: 1.38
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -1182,3 +1182,13 @@
 0.0.0.0 ihredkbonline.com
 0.0.0.0 nenber-garena.com
 0.0.0.0 mosaeri.com
+
+# https://www.virustotal.com/gui/file/3f4c860c2689984f7edab62d5a5459840dc9515ec2c7a94b6fea6878481a3992/detection
+0.0.0.0 pcspeedcat.com
+
+0.0.0.0 cryptomk.info
+0.0.0.0 bqsnmke.club
+0.0.0.0 bamcogemeral.com
+0.0.0.0 bmcell0nline0perator.tk
+0.0.0.0 confirm-zendesk.xyz
+0.0.0.0 vkpriz.click
