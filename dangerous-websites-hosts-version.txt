@@ -3,8 +3,8 @@
 # Subscribe to the original list with this link: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/dangerous-websites.txt
 # This list was previously hosted on my website then GitLab before it was moved to GitHub.
 # Title: Curtis Pharrell's Dangerous Website List (Hosts Version)
-# Updated: Fri, 4 Mar 2022 14:44 UTC+08:00
-# Version: 1.38
+# Updated: Sat, 19 Mar 2022 11:07 UTC+08:00
+# Version: 1.39
 # Description: This list is for blocking dangerous websites.
 # Homepage: https://github.com/curtisbear23/my-filter-lists
 # License: https://raw.githubusercontent.com/curtisbear23/my-filter-lists/main/LICENSE
@@ -1192,3 +1192,8 @@
 0.0.0.0 bmcell0nline0perator.tk
 0.0.0.0 confirm-zendesk.xyz
 0.0.0.0 vkpriz.click
+0.0.0.0 forumssolana.support^$document
+0.0.0.0 eth-aave.info^$document
+0.0.0.0 cn-metamask.org^$document
+0.0.0.0 metamaskupdate.xyz^$document
+0.0.0.0 banbifemprsas.com^$document
